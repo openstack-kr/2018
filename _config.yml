@@ -21,7 +21,7 @@ url: "https://openstack-kr.github.io" # the base hostname & protocol for your si
 
 # Usernames and API Keys
 github_username: openstack-kr
-gmaps_embed_api_key: AIzaSyB94qSWPswDXOjd35pfzUpQduKzjJvPiRs
+gmaps_embed_api_key: AIzaSyCwJbDHw2P7_Ao6M9ksYn68ZiISwfLCF3E
 
 # Location & time
 period: "2018년 6월 28-29일 오전 9:00 ~ 오후 6:00"
@@ -32,28 +32,28 @@ location_query: "코엑스"
 # Event Sponsors
 hosts:
   - name: OpenStack 한국 커뮤니티
-    image: nipa.png
-    url: https://www.openstack.or.kr
+    image: openstack-korea.png
+    url: http://www.openstack.or.kr
     desc: >
       -
   - name: OpenStack Foundation
-    image: nipa.png
+    image: openstack.png
     url: https://www.openstack.org
     desc: >
       -
   - name: CNCF 한국 커뮤니티
-    image: nipa.png
-    url: https://www.openstack.or.kr
+    image: cncf-korea-community.png
+    url: https://www.meetup.com/Cloud-Native-Computing-Seoul/
     desc: >
       -
 runs:
   - name: OpenStack 한국 커뮤니티
-    image: nipa.png
-    url: https://www.openstack.or.kr
+    image: openstack-korea.png
+    url: http://www.openstack.or.kr
     desc: >
       -
   - name: OpenStack Foundation
-    image: nipa.png
+    image: openstack.png
     url: https://www.openstack.org
     desc: >
       -
@@ -64,113 +64,113 @@ runs:
       -
 platinums:
   - name: NetApp
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: netapp.png
+    url: https://www.netapp.co.kr/
     desc: >
       -
   - name: SK Telecom
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: skt.png
+    url: http://www.sktelecom.co.kr/
     desc: >
       -
   - name: 맨텍
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: mantech.png
+    url: http://www.mantech.co.kr/
     desc: >
       -
   - name: 오픈소스컨설팅
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: osic.png
+    url: http://www.osci.kr/
     desc: >
       -
   - name: 삼성전자
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: samsung.png
+    url: http://www.samsung.com/sec/
     desc: >
       -
   - name: Cloud Native Foundation
-    image: nipa.png
-    url: https://www.openstack.org
+    image: CNCF.png
+    url: https://www.cncf.io/
     desc: >
       -
 golds:
   - name: SUSE
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: suse.png
+    url: https://www.suse.com/
     desc: >
       -
   - name: HP Enterprise
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: hpe.png
+    url: https://www.hpe.com/kr/ko/home.html
     desc: >
       -
   - name: MTOS
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: mtos.png
+    url: http://www.mtos.co.kr/
     desc: >
       -
   - name: Nokia
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: nokia.jpg
+    url: https://networks.nokia.com/
     desc: >
       -
   - name: SPTek
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: sptek.jpg
+    url: http://www.sptek.co.kr/
     desc: >
       -
   - name: ATTO Research
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: atto-research.png
+    url: http://www.atto-research.com
     desc: >
       -
   - name: KINX
-    image: nipa.png
-    url: https://www.nipa.kr
+    image: kinx.jpg
+    url: https://www.kinx.net/
     desc: >
       -
 silvers:
   - name: OpenStack Foundation
-    image: nipa.png
+    image: openstack.png
     url: https://www.openstack.org
     desc: >
       -
-  - name: Innogrid & Westpak
-    image: nipa.png
-    url: https://www.openstack.org
+  - name: Innogrid & Westpac
+    image: innogrid-westpac.png
+    url: 
     desc: >
       -
   - name: LINE
-    image: nipa.png
-    url: https://www.openstack.org
+    image: line.png
+    url: 
     desc: >
       -
-  - name: XS Lab.
-    image: nipa.png
-    url: https://www.openstack.org
+  - name: 엑세스랩
+    image: xslab.png
+    url: 
     desc: >
       -
   - name: Edenchain
-    image: nipa.png
-    url: https://www.openstack.org
+    image: edenchain.jpeg
+    url: https://edenchain.io/
     desc: >
       -
 sponsors:
   - name: CUBRID
-    image: microsoft.svg
-    url: https://www.microsoft.com/ko-kr
+    image: cubrid.png
+    url: http://www.cubrid.com/
     desc: >
-      (네임택 후원)
+      네임택 후원
   - name: NCloud24
-    image: microsoft.svg
-    url: https://www.microsoft.com/ko-kr
+    image: ncloud24.png
+    url: https://www.ncloud24.com/
     desc: >
-      (실습 VM 후원)
+      실습 VM 후원
   - name: Cafe24
-    image: microsoft.svg
-    url: https://www.microsoft.com/ko-kr
+    image: cafe24.gif
+    url: https://cafe24.com
     desc: >
-      (실습 VM 후원)
+      실습 VM 후원
 
 # license
 owner: "MeltingCon Community Alliance"
@@ -180,10 +180,18 @@ content_license: "CC BY-SA 4.0"
 
 # Custom Collection
 collections:
-  sessions:
-    title: Sessions
+  session1s:
+    title: Sessions (day 1)
     output: true
-    permalink: "/session/:path"
+    permalink: "/session1/:path"
+  session2s:
+    title: Sessions (day 2)
+    output: true
+    permalink: "/session2/:path"
+  workshop2s:
+    title: Workshops (day 2)
+    output: true
+    permalink: "/workshop2/:path"
 
 # Build settings
 markdown: kramdown

@@ -32,8 +32,8 @@ div.program table tr td {
   color: #0000ff;
 }
 div.program table .section {
-  color: #000;
-  background: #f6c143;
+  color: #fff;
+  background: #dc3b3b;
 }
 div.program table .fontNameTitle {
   display: block;

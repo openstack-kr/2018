@@ -1,11 +1,14 @@
-<section style="background:#ecf0f1; padding-top:32px; padding-bottom:32px;">
+<section style="background:#ecf0f1; padding-top:3px;">
+&nbsp;
+</section>
+<section style="padding-top:32px; padding-bottom:32px;">
   <div class="container">
-    <h2>주최</h2>
+    <h3>주최</h3>
     <div class="row">
       {% for item in site.hosts %}
-      <div class="col-6 col-md-4">
+      <div class="col-4 col-md-3" style="padding: 30px;">
         <a href="{{ item.url }}">
-          <img src="{{ site.baseurl }}/assets/imgs/{{ item.image }}"
+          <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}">
         </a>
       </div>
@@ -14,12 +17,12 @@
   </div>
   <br /><br />
   <div class="container">
-    <h2>주관</h2>
+    <h3>주관</h3>
     <div class="row">
       {% for item in site.runs %}
-      <div class="col-6 col-md-4">
+      <div class="col-4 col-md-3" style="padding: 30px;">
         <a href="{{ item.url }}">
-          <img src="{{ site.baseurl }}/assets/imgs/{{ item.image }}"
+          <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}">
         </a>
       </div>
@@ -27,12 +30,12 @@
     </div>
   </div>
   <div class="container">
-    <h2>후원 (플래티넘)</h2>
+    <h3>후원 (플래티넘)</h3>
     <div class="row">
       {% for item in site.platinums %}
-      <div class="col-6 col-md-4">
+      <div class="col-4 col-md-3" style="padding: 30px;">
         <a href="{{ item.url }}">
-          <img src="{{ site.baseurl }}/assets/imgs/{{ item.image }}"
+          <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}">
         </a>
       </div>
@@ -40,12 +43,12 @@
     </div>
   </div>
   <div class="container">
-    <h2>후원 (골드)</h2>
+    <h3>후원 (골드)</h3>
     <div class="row">
       {% for item in site.golds %}
-      <div class="col-6 col-md-4">
+      <div class="col-4 col-md-3" style="padding: 30px;">
         <a href="{{ item.url }}">
-          <img src="{{ site.baseurl }}/assets/imgs/{{ item.image }}"
+          <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}">
         </a>
       </div>
@@ -53,12 +56,12 @@
     </div>
   </div>
   <div class="container">
-    <h2>후원 (실버)</h2>
+    <h3>후원 (실버)</h3>
     <div class="row">
       {% for item in site.silvers %}
-      <div class="col-6 col-md-4">
+      <div class="col-4 col-md-3" style="padding: 30px;">
         <a href="{{ item.url }}">
-          <img src="{{ site.baseurl }}/assets/imgs/{{ item.image }}"
+          <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}">
         </a>
       </div>
@@ -66,12 +69,12 @@
     </div>
   </div>
   <div class="container">
-    <h2>후원</h2>
+    <h3>후원</h3>
     <div class="row">
       {% for item in site.sponsors %}
-      <div class="col-6 col-md-4">
+      <div class="col-4 col-md-3" style="padding: 30px;">
         <a href="{{ item.url }}">
-          <img src="{{ site.baseurl }}/assets/imgs/{{ item.image }}"
+          <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}">
         </a>
       </div>

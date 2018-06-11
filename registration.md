@@ -5,4 +5,4 @@ icon: <i class="fas fa-ticket-alt"></i><i class="far fa-check-circle"></i>
 permalink: /registration/
 ---
 
-행사에 참여해주신 모든 분들께 감사드립니다. 차기 행사 때 다시 뵙겠습니다.
+등록 페이지를 준비하고 있습니다. 감사합니다.

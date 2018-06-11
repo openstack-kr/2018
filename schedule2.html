@@ -1,0 +1,137 @@
+---
+layout: page
+title: "6월 29일 금요일: 2일차 (Day 2)"
+icon: <i class="far fa-comments"></i><i class="far fa-calendar-check"></i>
+permalink: /schedule2/
+---
+<div class="alert alert-info" role="alert">
+  발표 제목을 클릭하여 발표 자료 관련 내용을 확인하실 수 있습니다. 프로그램이 지속적으로 업데이트가 이루어지니 참고하시기 바랍니다.
+</div>
+
+<div align="center">
+	<a href="#sessions">Kubernetes Workshop & 발표 세션</a> | <a href="#workshops">핸즈온랩 Workshop & Deep Dive Sessions</a>
+</div>
+
+<p>&nbsp;</p>
+<a name="sessions"></a>
+<div style="overflow: auto;" align="center">
+<div class="program">
+	<h4>Kubernetes Workshop & Sessions</h4>
+    <table cellspacing="0" cellpadding="0" border="2">
+        <colgroup>
+            <col width="80px ">
+            <col width="340px">
+            <col width="340px">
+        </colgroup>
+        <tbody>
+        <tr>
+            <th class="section">&nbsp;</th>
+{% assign tracks = site.session2s | group_by: 'track' %}
+{% for track in tracks %}
+{% unless track.name contains "," %}
+            <td class="section">{{ track.name }}</td>
+{% endunless %}
+{% endfor %}
+        </tr>
+{% assign sessions_grouped_unsorted = site.session2s | group_by: 'order' %}
+{% assign sessions_grouped = sessions_grouped_unsorted | sort: 'name' %}
+{% for session_group in sessions_grouped %}
+{% unless session_group.items.size == 0 %}
+      {% if session_group.items.size == 1 %}
+        {% assign session = session_group.items[0] %}
+        <tr>
+            <th>{{ session.time }}</th>
+            <td colspan="2">
+                <a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
+                <span class="fontNameTitle">
+                    {% for speaker in session.speakers %}
+                        <li style="list-style-type: none;">{{ speaker.name }} - {{ speaker.org }}</li>
+                    {% endfor %}
+                </span>
+            </td>
+        </tr>
+      {% else %}
+        {% assign sessionSorted = session_group.items | sort: 'track' %}
+        <tr>
+            <th>{{ sessionSorted[0].time }}</th>
+        {% for session in sessionSorted %}
+            <td>
+                <a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
+                <span class="fontNameTitle">
+                    {% for speaker in session.speakers %}
+                        <li style="list-style-type: none;">{{ speaker.name }} - {{ speaker.org }}</li>
+                    {% endfor %}
+                </span>
+            </td>
+        {% endfor %}
+        </tr>
+      {% endif %}
+{% endunless %}
+{% endfor %}
+        </tbody>
+    </table>
+</div>
+</div>
+
+<a name="workshops"></a>
+<div style="overflow: auto;" align="center">
+<div class="program">
+	<h4>Workshop / Deep Dive Sessions</h4></a>
+    <table cellspacing="0" cellpadding="0" border="2">
+        <colgroup>
+            <col width="80px ">
+            <col width="150px">
+            <col width="150px">
+            <col width="150px">
+            <col width="150px">
+            <col width="80px">
+        </colgroup>
+        <tbody>
+        <tr>
+            <th class="section">&nbsp;</th>
+{% assign tracks = site.workshop2s | group_by: 'track' %}
+{% for track in tracks %}
+{% unless track.name contains "," %}
+            <td class="section">{{ track.name }}</td>
+{% endunless %}
+{% endfor %}
+        </tr>
+{% assign sessions_grouped_unsorted = site.workshop2s | group_by: 'order' %}
+{% assign sessions_grouped = sessions_grouped_unsorted | sort: 'name' %}
+{% for session_group in sessions_grouped %}
+{% unless session_group.items.size == 0 %}
+      {% if session_group.items.size == 1 %}
+        {% assign session = session_group.items[0] %}
+        <tr>
+            <th>{{ session.time }}</th>
+            <td colspan="5">
+                <a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
+                <span class="fontNameTitle">
+                    {% for speaker in session.speakers %}
+                        <li style="list-style-type: none;">{{ speaker.name }} - {{ speaker.org }}</li>
+                    {% endfor %}
+                </span>
+            </td>
+        </tr>
+      {% else %}
+        {% assign sessionSorted = session_group.items | sort: 'track' %}
+        <tr>
+            <th>{{ sessionSorted[0].time }}</th>
+        {% for session in sessionSorted %}
+            <td>
+                <a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
+                <span class="fontNameTitle">
+                    {% for speaker in session.speakers %}
+                        <li style="list-style-type: none;">{{ speaker.name }} - {{ speaker.org }}</li>
+                    {% endfor %}
+                </span>
+            </td>
+        {% endfor %}
+        </tr>
+      {% endif %}
+{% endunless %}
+{% endfor %}
+        </tbody>
+    </table>
+</div>
+</div>
