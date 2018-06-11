@@ -1,7 +1,7 @@
 .main-header{
   text-align: center;
-  padding-top: 20vh;
-  padding-bottom: 20vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
 }
 
 .box-left{
@@ -34,4 +34,8 @@
 
 .page-header i{
   padding: 16px;
+}
+
+.white-text {
+  color: #FFF;
 }

@@ -1,22 +1,24 @@
 ---
 layout: frame
 ---
-<div class="main-header">
-  <h1 class="display-2">MeltingCon 2018</h1>
-  <h2>개발자가 상팔자</h2>
-  <h3>{{site.period}}<br>{{site.location}}</h3>
+<div class="main-header" style="background-image:url({{ site.baseurl }}/assets/imgs/home-background.jpg); background-repeat: no-repeat; width: 100%; background-size: 100%;">
+  <h1 class="display-4 white-text"><b>OpenInfra Days Korea 2018</b></h1>
+  <h3 class="white-text">Open Infrastructure: OpenStack, Containers, and Cloud Native Computing</h2>
+  <h5 class="white-text">{{site.period}}<br>{{site.location}}</h5>
+  <p>&nbsp</p>
   <a role="button" class="btn btn-primary btn-lg"
   href="{{ site.baseurl }}/registration/">
-    <i class="fas fa-ticket-alt"></i> 지금 등록하기</a>
+    <i class="fas fa-ticket-alt"></i> (등록 오픈 예정: 6/14)</a>
 </div>
 
-<section style="background:#f1c40f;">
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-8 box-left">
-        <h1>멜팅콘을 소개합니다.</h1>
-        <p>멜팅콘(MeltingCon) 은 국내 다수의 개발자 커뮤니티와 IT 커뮤니티가 모인 커뮤니티 연합체이자,
-          <br>멜팅콘 커뮤니티 연합이 주최하는 컨퍼런스 입니다.</p>
+        <h1>소개</h1>
+        <p>
+            지난 OpenStack Days Korea 행사에 이어 6월 28일과 29일 양일간 개최하는
+            <b>Open Infra Days Korea 2018</b> 행사에 대해 자세히 알아봅시다.
+        </p>
         <a role="button" class="btn btn-primary btn-lg" href="{{ site.baseurl }}/about">더 알아보기</a>
       </div>
       <div class="col-6 col-md-4 box-icon">
@@ -25,8 +27,8 @@ layout: frame
       </div>
     </div>
   </div>
-</section>
 
+<section style="background:#37d1d033;">
 <div class="container">
   <div class="row">
     <div class="col-6 col-md-4 box-icon">
@@ -34,11 +36,11 @@ layout: frame
       <i class="far fa-calendar-check"></i>
     </div>
     <div class="col-12 col-md-8 box-right">
-      <h1>컨퍼런스 일정</h1>
-      <p>올해 멜팅콘 컨퍼런스는 <b>개발자가 상팔자</b> 를 주제로 하여 다양한 프로그램을 준비했습니다.
-      <br>준비된 세션과 어떤 분들께서 발표를 하시는지 좀 더 자세히 알아보세요.</p>
+      <h1>일정</h1>
+      <p>양 이틀간 준비된 키노트, 메인 세션 및 워크샵/딥다이브 프로그램에 대해 자세히 살펴봅니다.</p>
       <a role="button" class="btn btn-primary btn-lg" href="{{ site.baseurl }}/schedules">일정 확인하기</a>
     </div>
   </div>
 </div>
+</section>
 {% include sponsors.html %}
