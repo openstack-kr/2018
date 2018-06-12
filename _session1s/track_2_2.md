@@ -7,9 +7,9 @@ time: "14:30 ~ 15:00"
 duration: 30분
 speakers:
   - name: 
-    org: 
+    org: KINX
     desc: 
-    image: 
+    image: ../assets/imgs/unknown.png
 ---
 
 ## 개요

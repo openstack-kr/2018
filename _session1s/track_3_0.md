@@ -7,9 +7,9 @@ time: "13:20 ~ 13:50"
 duration: 30분
 speakers:
   - name: 
-    org: 
+    org: SUSE
     desc: 
-    image: 
+    image: ../assets/imgs/unknown.png
 ---
 
 ## 개요

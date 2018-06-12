@@ -7,9 +7,9 @@ time: "13:50 ~ 14:20"
 duration: 30분
 speakers:
   - name: 
-    org: 
+    org: 에스피테크놀로지
     desc: 
-    image: 
+    image: ../assets/imgs/unknown.png
 ---
 
 ## 개요
