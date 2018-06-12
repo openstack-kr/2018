@@ -1,7 +1,7 @@
 ---
 layout: session1
 order: 8
-title: "CephFS with OpenStack Manila based on Bluestone and Erasure Code"
+title: "CephFS with OpenStack Manila based on Bluestore and Erasure Code"
 track: Track 3
 time: "16:30 ~ 17:00"
 duration: 30분
