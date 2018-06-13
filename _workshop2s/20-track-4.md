@@ -7,11 +7,15 @@ track:
 time: "13:00 ~ 14:50"
 duration: 1시간 50분
 speakers:
-  - name: 유정협
+  - name: 유정협 (Justin Yoo)
     org: Mexia Consulting
     desc: 
-    image: ../assets/imgs/유정협.jpg
+    image: ../assets/imgs/유정협.png
 ---
+
+## 제목
+- 한글: "서버리스가 컨테이너를 만났을 때"
+- English: "When Serverless Meets Containers"
 
 ## 개요
 
@@ -20,3 +24,9 @@ speakers:
 이 세션에서는 애저 펑션과 같은 대표적인 서버리스 플랫폼이 어떻게 컨테이너 환경에서 배포 및 설치가 이루어지는지 알아보고 실제로 간단한 애저 펑션 앱을 개발한 후 도커 컨테이너를 통해 애저 클라우드로 배포하는 방법에 대해 처음부터 끝까지 한 호흡으로 다루어 보고자 합니다.
 
 이 세션이 끝난 후 참가자들은 애저 펑션과 같은 서버리스 아키텍처/플랫폼에 대한 이해와 더불어, 도커 컨테이너를 통해 서버리스 플랫폼을 구성하고 배포하는 방법에 대해 알 수 있습니다. 또한 이러한 전체적인 과정을 모두 CI/CD 파이프라인 안에서 해결하는 방법에 대해 배우게 됩니다.
+
+## Abstract
+
+One of benefits using serverless architecture is "no need to worry about infrastructure management". On the other hands, container technology is about "no need to worry about setting up infrastructure". They are two different directions of evolving cloud services. Now, they get together and play together. Actually they get along each other quite seamlessly.
+
+At the end of this session, audiences will learn 1) why we need containers for serverless applications, 2) how this is possible in Azure Functions, and 3) how to deploy Azure Functions with a Docker container.

@@ -7,11 +7,15 @@ track:
 time: "16:10 ~ 16:50"
 duration: 40분
 speakers:
-  - name: 유정협
+  - name: 유정협 (Justin Yoo)
     org: Mexia Consulting
     desc: 
-    image: ../assets/imgs/유정협.jpg
+    image: ../assets/imgs/유정협.png
 ---
+
+## 제목
+- 한글: "CloudEvents 소개 - 상호 운용 가능성을 극대화한 이벤트 데이터를 정의하는 새로운 포맷"
+- English: "CloudEvents – A Common Way of Describing Events by CNCF"
 
 ## 개요
 
@@ -20,3 +24,11 @@ speakers:
 CloudEvents 는 이러한 고민의 결과로서 만들어진, "공통의 이벤트 데이터 포맷"을 정의하는 스펙입니다. 이를 적용한다면 플랫폼에 상관없이, 시스템에 상관없이, 서비스에 상관없이 이벤트 데이터를 전송할 수 있게 됩니다.
 
 이 세션에서는 CNCF의 서버리스 워킹 그룹 주도 아래 만들어지고 있는 이 CloudEvents 에 대해 알아보고 실제 현장에서 어떻게 적용되고 있는지 간단한 사례와 데모를 통해 보여줍니다. 이 세션이 끝난 후 CloudEvents 가 클라우드 서비스 제공자 사이에서 어떻게 적용되고 있는지 알 수 있고, 자신이 운용하는 시스템에는 어떻게 적용시킬 수 있는지 알 수 있게 됩니다.
+
+## Abstract
+
+Events occur everywhere. But event publishers describe those events differently. There has been no way describing events in a common way, which make developers in their hard time to constantly re-learn how to consume events.
+
+CloudEvents is an open spec for event data driven by CNCF (Cloud Native Computing Foundation) and many industry vendors, including Azure, AWS, CGP, IBM and OpenStack, take part in setting up the spec. Any application implementing and/or consuming webhook can introduce this spec and Azure Event Grid is one of them.
+
+At the end of this session, audiences will learn 1) what CloudEvents spec is, 2) how it can be implemented, 3) how Azure Event Grid copes with CloudEvents, and 4) How other popular platforms can redesign their events.
