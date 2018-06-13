@@ -17,4 +17,5 @@ speakers:
 ---
 
 ## 개요
-(TBD)
+
+Action Plan to be a Contributing Country to Open Source Beyond Consuming Country

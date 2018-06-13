@@ -13,3 +13,5 @@ speakers:
 ---
 
 ## 개요
+
+kubernetes package manager인 helm에 대해서 알아보고 이것이 openstack-helm에서 어떻게 사용되는지 살펴본다.

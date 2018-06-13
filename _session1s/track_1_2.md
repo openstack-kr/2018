@@ -13,3 +13,5 @@ speakers:
 ---
 
 ## 개요
+
+다양한 환경에서 Openstack 환경을 쉽게 구축할 수 있는 GUI Installer를 소개합니다.

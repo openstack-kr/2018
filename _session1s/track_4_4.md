@@ -13,3 +13,8 @@ speakers:
 ---
 
 ## 개요
+
+1. FreeIPA를 이용한 OS계정 통합 
+2. kerberos를 이용한 SSH /  Apache web - Service Single Sign On
+3. SAML2 , mod_auth_mellon와 연동
+
