@@ -27,7 +27,7 @@ gmaps_embed_api_key: AIzaSyCwJbDHw2P7_Ao6M9ksYn68ZiISwfLCF3E
 period: "2018년 6월 28-29일 오전 9:00 ~ 오후 6:00"
 location: "COEX 3층 컨퍼런스룸E (구 Hall E)"
 address: "서울특별시 강남구 봉은사로 524"
-location_query: "코엑스"
+location_query: "COEX KOREA"
 
 # Event Sponsors
 hosts:
