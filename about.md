@@ -12,7 +12,7 @@ permalink: /about/
 주제로 **Open Infra Days Korea 2018**을 개최합니다.
 OpenStack/OpenInfra Days는 OpenStack Foundation에서 주최 참여를 하는 공식
 글로벌 행사이며, 전 세계 많은 나라에서 개최되고 있습니다. 특히, 올해에는 
-*Cloud Native Computing Foundation*에서도 공식 후원을 해주시고 계십니다. 
+*Cloud Native Computing Foundation*에서도 공식 후원으로 참여합니다. 
 
 한국에서는 2014년 1회 OpenStack Day Korea 행사를 시작으로, 오픈스택 한국
 커뮤니티가 주최로 참여하는 다섯 번째 행사입니다. 한국 최대 규모의
