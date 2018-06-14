@@ -1,7 +1,7 @@
 ---
 layout: session1
 order: 1.2
-title: (Community Keynote - Cloud Native Computing)
+title: Community Keynote - Cloud Native Computing Foundation
 track:
   - Track 1
   - Track 2
@@ -10,8 +10,8 @@ track:
 time: "10:10 ~ 10:30"
 duration: 20분
 speakers:
-  - name: 
-    org: 
+  - name: CNCF
+    org: CNCF 
     desc: 
     image: 
 ---
