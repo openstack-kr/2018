@@ -8,7 +8,7 @@ time: "13:00 ~ 14:50"
 duration: 1시간 50분
 speakers:
   - name: 남정현
-    org: Azure Korea User Group
+    org: Korea Azure User Group
     desc: 
     image: ../assets/imgs/남정현.jpg
 ---
