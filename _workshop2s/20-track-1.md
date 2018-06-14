@@ -1,7 +1,7 @@
 ---
 layout: workshop2
 order: 2
-title: "워크샵 - openstack 생존기"
+title: "워크샵 - OpenStack 생존기"
 track:
   - Room E1
 time: "13:00 ~ 14:50"
