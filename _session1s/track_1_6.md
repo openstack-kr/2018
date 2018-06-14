@@ -1,7 +1,7 @@
 ---
 layout: session1
 order: 9
-title: "(TBD - Blockchain과 Open infrastructure)"
+title: "Blockchain과 Open infrastructure"
 track: Track 1
 time: "17:00 ~ 17:30"
 duration: 30분

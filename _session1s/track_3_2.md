@@ -1,7 +1,7 @@
 ---
 layout: session1
 order: 5
-title: "(TBD)"
+title: "기술발표"
 track: Track 3
 time: "14:30 ~ 15:00"
 duration: 30분
