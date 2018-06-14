@@ -1,7 +1,7 @@
 ---
 layout: session2
 order: 4-3
-title: "(TBD)"
+title: "기술발표"
 track:
   - Room E6
 time: "13:40 ~ 14:10"
@@ -12,4 +12,4 @@ speakers:
     desc: 
     image: 
 ---
-(TBD)
+(기술발표)
