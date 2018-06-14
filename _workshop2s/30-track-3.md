@@ -7,8 +7,8 @@ track:
 time: "15:30 ~ 17:20"
 duration: 1시간 50분
 speakers:
-  - name: Kubernetes User Group
-    org: 
+  - name: 안승규
+    org: Kubernetes User Group
     desc:
     image: ../assets/imgs/unknown.png
 ---
