@@ -1,15 +1,16 @@
 ---
 layout: session1
 order: 6
-title: "컨테이너 시대에 딱 맞는 매니코어 기반의 ARM 서버"
+title: "기술발표"
 track: Track 3
-time: "15:20 ~ 15:50"
+time: "14:30 ~ 15:00"
 duration: 30분
 speakers:
-  - name: 유명환
-    org: "엑세스랩(주)"
+  - name: 
+    org: 아토리서치
     desc: 
-    image:  ../assets/imgs/유명환.gif
+    image: ../assets/imgs/unknown.png
 ---
 
 ## 개요
+"(TBD)"
