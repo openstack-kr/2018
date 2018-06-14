@@ -54,7 +54,7 @@ DevOps, CI/CD 등 다양한 오픈 인프라에서의 유스 케이스와 관련
 - 일시: 2018년 6월 28일(목) - 29일 (금), 09:00~18:00 
 - 장소: 코엑스 3층 컨퍼런스룸 E (구 Hall E)
 - 커뮤니티 공동 참여: AWS User Group, Google Cloud Platform User Group, 
-Azure Korea User Group, Kubernetes User Group, IBM Cloud User Group
+Korea Azure User Group, Kubernetes User Group, IBM Cloud User Group
 
 ## 경품 안내
 
