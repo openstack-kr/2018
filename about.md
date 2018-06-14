@@ -46,7 +46,7 @@ DevOps, CI/CD 등 다양한 오픈 인프라에서의 유스 케이스와 관련
 - 행사명: OpenInfra Days Korea 2018 
 - 주제: OpenStack Next: Embracing the Cloud Universe
 - 주최: OpenStack 한국 커뮤니티, OpenStack Foundation, CNCF 한국 커뮤니티
-- 주관: OpenStack 한국 커뮤니티, OpenStack Foundation, 한국정보통신산업진흥원 
+- 주관: OpenStack 한국 커뮤니티, OpenStack Foundation, 정보통신산업진흥원 
 - 등록비 (부가세포함) 
   - 양일 (Day 1 + Day 2) : (TBD)
   - Day 1 : (TBD)
