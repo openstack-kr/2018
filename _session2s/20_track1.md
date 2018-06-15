@@ -7,7 +7,7 @@ track:
 time: "10:30 ~ 11:40"
 duration: 70분
 speakers:
-  - name: 
+  - name: 안승규
     org: Kubernetes User Group
     desc: 
     image: ../assets/imgs/unknown.png
@@ -19,8 +19,8 @@ speakers:
 
 ## 개요
 
-##### (Kubernetes User Group - TBD)
-(TBD)
+##### (Kubernetes User Group: Kubernetes for Beginner)
+처음 Kubernetes를 접하는 분들이 쉽게 이해할 수 있도록 설명드리도록 하겠습니다. 
 
 ##### Korea Azure User Group: Kubernetes에서 Windows IIS/ASP.NET 애플리케이션 호스팅하기
 Kubernetes 1.5부터 본격적으로 개발되기 시작한 Windows 기반의 Kubernetes 클러스터에 대한 내용을 살펴보고,
