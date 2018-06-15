@@ -1,7 +1,7 @@
 ---
 layout: workshop2
 order: 3
-title: "AWS UG 핸즈온 워크샵: AWS에서 Kops를 활용한 Kubernetes 클러스터 운영하기"
+title: "핸즈온 워크샵: AWS에서 Kops를 활용한 Kubernetes 클러스터 운영하기"
 track:
   - Room E2
 time: "15:30 ~ 17:20"
