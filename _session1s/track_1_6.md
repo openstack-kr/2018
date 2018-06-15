@@ -3,7 +3,7 @@ layout: session1
 order: 9
 title: "컨테이너 시대에 딱 맞는 매니코어 기반의 ARM 서버"
 track: Track 1
-time: "15:20 ~ 15:50"
+time: "17:00 ~ 17:30"
 duration: 30분
 speakers:
   - name: 유명환
