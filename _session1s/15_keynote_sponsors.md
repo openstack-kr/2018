@@ -13,7 +13,7 @@ speakers:
   - name: 
     org: NetApp
     desc: 
-    image: 
+    image: ../assets/imgs/unknown.png
   - name: 이진현 이사
     org: 맨텍
     desc: "이진현 이사는 현재 (주)맨텍에서 오픈소스와 마케팅부서를 총괄하고
@@ -24,11 +24,11 @@ speakers:
   - name: 정서형 상무
     org: 삼성전자
     desc: 
-    image: 
+    image: ../assets/imgs/unknown.png
   - name: 
     org: 오픈소스컨설팅
     desc: 
-    image: 
+    image: ../assets/imgs/unknown.png
 ---
 
 ## 순서
