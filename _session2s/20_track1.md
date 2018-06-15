@@ -19,7 +19,7 @@ speakers:
 
 ## 개요
 
-##### (Kubernetes User Group: Kubernetes for Beginner)
+##### Kubernetes User Group: Kubernetes for Beginner
 처음 Kubernetes를 접하는 분들이 쉽게 이해할 수 있도록 설명드리도록 하겠습니다. 
 
 ##### Korea Azure User Group: Kubernetes에서 Windows IIS/ASP.NET 애플리케이션 호스팅하기
