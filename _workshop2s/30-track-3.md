@@ -13,9 +13,12 @@ speakers:
     image: ../assets/imgs/unknown.png
 ---
 ## 개요
-
 - Kubespray를 이용한 Kubernetes 설치
 - Helm과 Armada 소개 
 - OpenStack-Helm 소개 
 - Container화된 OpenStack 설치 
 - Logging, Monitoring 설 
+
+## 참석자 분들의 사전 준비 항목
+- 무선 인터넷이 가능한 본인 노트북 (윈도의 경우, 미리 PuTTY 설치 필요)
+- Kubernetes에 대한 이해 
