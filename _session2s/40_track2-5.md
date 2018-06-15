@@ -10,7 +10,7 @@ speakers:
   - name: 윤석찬
     org: Korea Chaos Engineering Community
     desc: 현재, 한국 카오스 엔지니어링 커뮤니티(http://facebook.com/groups/chaosengkorea/) 운영자이면서 AWS 테크니컬 에반젤리스트로 클라우드 기술을 전파하며 개발자들이 클라우드를 활용할 수 있도록 지원하는 역할을 하고 있다. 웹 개발자로 인터넷 업계에 투신해 스타트업 CTO, 오픈 소스 커뮤니티 리더 및 IT분야 블로거 등 다양한 역할을 수행했고, 다음커뮤니케이션에서 연구개발 부서 리더 및 오픈 API 플랫폼 에반젤리스트로서 API 플랫폼 구축 및 외부 개발자 지원을 담당했다.
-    image: 
+    image: ../assets/imgs/윤석찬.jpg 
 ---
 
 ## 개요
