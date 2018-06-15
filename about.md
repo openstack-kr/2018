@@ -44,13 +44,14 @@ DevOps, CI/CD 등 다양한 오픈 인프라에서의 유스 케이스와 관련
 ## 행사 안내
 
 - 행사명: OpenInfra Days Korea 2018 
-- 주제: OpenStack Next: Embracing the Cloud Universe
+- 주제: Open Infrastructure: OpenStack, Containers, and Cloud Native Computing
 - 주최: OpenStack 한국 커뮤니티, OpenStack Foundation, CNCF 한국 커뮤니티
 - 주관: OpenStack 한국 커뮤니티, OpenStack Foundation, 정보통신산업진흥원 
 - 등록비 (부가세포함) 
-  - 양일 (Day 1 + Day 2) : (TBD)
-  - Day 1 : (TBD)
-  - Day 2 : (TBD)
+  - 양일 (Day 1 + Day 2) : 20,000원
+  - Day 1 : 15,000원
+  - Day 2 : 15,000원
+    - 28, 29 양일 현장 등록 선착순 300명에게는 점심식사를 제공할 예정입니다.
 - 일시: 2018년 6월 28일(목) - 29일 (금), 09:00~18:00 
 - 장소: 코엑스 3층 컨퍼런스룸 E (구 Hall E)
 - 커뮤니티 공동 참여: AWS User Group, Google Cloud Platform User Group, 
