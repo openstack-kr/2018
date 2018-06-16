@@ -1,7 +1,7 @@
 ---
 layout: workshop2
 order: 3
-title: "핸즈온랩: 온프레미스에서 Kubernetes 구축 및 관리하기"
+title: "핸즈온 워크샵: 온프레미스에서 Kubernetes 구축 및 관리하기"
 track:
   - Room E1
 time: "15:30 ~ 17:20"

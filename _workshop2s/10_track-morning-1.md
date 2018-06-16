@@ -1,7 +1,7 @@
 ---
 layout: workshop2
 order: 1
-title: "핸즈온랩: ONOS (SONA)를 이용한 OpenStack 네트워크 관리 실습"
+title: "핸즈온 워크샵: ONOS (SONA)를 이용한 OpenStack 네트워크 관리 실습"
 track:
   - Room E1
 time: "10:00 ~ 11:50"

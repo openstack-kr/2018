@@ -1,7 +1,7 @@
 ---
 layout: workshop2
 order: 2
-title: "핸즈온랩: 서버리스가 컨테이너를 만났을 때"
+title: "핸즈온 워크샵: 서버리스가 컨테이너를 만났을 때"
 track:
   - Room E4
 time: "13:00 ~ 14:50"
