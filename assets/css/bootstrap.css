@@ -5151,6 +5151,8 @@ tbody.collapse.show {
   -webkit-box-align: start;
   -ms-flex-align: start;
   align-items: flex-start;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
 }
 
 .media-body {
