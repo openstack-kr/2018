@@ -9,9 +9,18 @@ duration: 1시간 50분
 speakers:
   - name: 양현주
     org: IBM Cloud User Group
-    desc: 
-    image: ../assets/imgs/unknown.jpg
+    desc: 구름을 좋아하는 클라우드 엔지니어입니다. 현재 IBM에서 새로운 기술에 지속적으로 도전하고 있으며, 클라우드 네이티브와 마이크로서비스로의 여정을 그려나가고 있습니다. 그 중심에 있는 Kubernetes에 대해 함께 이야기 하고 싶습니다. 
+    image: ../assets/imgs/양현주.JPG
 ---
+
+##### 워크샵 종류
+
+Hands-On과 Demo
+
+##### 워크샵 레벨
+
+초중급
+
 
 ## 개요
 
@@ -19,4 +28,10 @@ Kubernetes 기반인 IBM Cloud Private을 통해 온프레미스에서 Kubernete
 
 ## 참석자 분들의 사전 준비 항목
 
-본인 노트북 지참 (Chrome, Firefox 브라우저 설치)
+본인 노트북 지참 (Chrome 혹은 Firefox 브라우저 설치)
+
+## 참석자 분들 사전 조건
+
+Docker Container와 Kubernetes의 기본 개념을 이해하고 오시면 좋습니다. 
+
+

@@ -10,7 +10,7 @@ speakers:
   - name: 안승규
     org: Kubernetes User Group & OpenStack Korea Community / SKT
     desc:
-    image: ../assets/imgs/unknown.png
+    image: ../assets/imgs/안승규.jpg
   - name: 추자원
     org: Kubernetes User Group & OpenStack Korea Community / SKT
     desc:
