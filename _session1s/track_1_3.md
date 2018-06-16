@@ -9,7 +9,7 @@ speakers:
   - name: 김호진
     org: 오픈소스컨설팅
     desc: 
-    image: ../assets/imgs/unknown.png
+    image: ../assets/imgs/김호진.png
 ---
 
 ## 개요

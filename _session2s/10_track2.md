@@ -1,7 +1,7 @@
 ---
 layout: session2
 order: 1
-title: "Invited Talk: CNCF"
+title: "Invited Talk"
 track:
   - Room E6
 time: "09:30 ~ 10:20"

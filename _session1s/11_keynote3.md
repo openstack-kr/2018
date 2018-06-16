@@ -16,5 +16,5 @@ speakers:
     image: ../assets/imgs/최영락.png
 ---
 
-## Abstract
-(TBD)
+## 개요
+

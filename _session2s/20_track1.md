@@ -10,11 +10,11 @@ speakers:
   - name: 안승규
     org: Kubernetes User Group
     desc: 
-    image: ../assets/imgs/unknown.png
+    image: ../assets/imgs/안승규.jpg
   - name: 남정현
     org: Korea Azure User Group
     desc: 
-    image: ../assets/imgs/unknown.png
+    image: ../assets/imgs/남정현.jpg
 ---
 
 ## 개요

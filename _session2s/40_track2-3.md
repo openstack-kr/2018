@@ -10,7 +10,7 @@ speakers:
   - name: 안승규
     org: SK Telecom / Kubernetes UG 
     desc: 
-    image: 
+    image: ../assets/imgs/안승규.jpg
 ---
 ## 내용
 

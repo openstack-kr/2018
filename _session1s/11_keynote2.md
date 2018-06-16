@@ -10,11 +10,12 @@ track:
 time: "10:10 ~ 10:30"
 duration: 20분
 speakers:
-  - name: CNCF
-    org: CNCF 
+  - name: Jerry Lee
+    org: Representative of CNCF Korea
     desc: 
-    image: 
+    image: ../assets/imgs/unknown.png
 ---
 
 ## Abstract
-(TBD)
+
+This is a keynote session by Cloud Native Computing Foundation.
