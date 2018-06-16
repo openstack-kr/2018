@@ -85,7 +85,7 @@ permalink: /schedule2/
             <col width="150px">
             <col width="150px">
             <col width="150px">
-            <col width="80px">
+            <col width="100px">
         </colgroup>
         <tbody>
         <tr>
@@ -99,13 +99,29 @@ permalink: /schedule2/
         </tr>
 {% assign sessions_grouped_unsorted = site.workshop2s | group_by: 'order' %}
 {% assign sessions_grouped = sessions_grouped_unsorted | sort: 'name' %}
+{% assign sessions_grouped_size = sessions_grouped.items.size %}
 {% for session_group in sessions_grouped %}
 {% unless session_group.items.size == 0 %}
       {% if session_group.items.size == 1 %}
-        {% assign session = session_group.items[0] %}
+          {% assign session = session_group.items[0] %}
+            <tr>
+				<th>{{ session.time }}</th>
+				<td colspan="4">
+					<a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
+					<span class="fontNameTitle">
+						{% for speaker in session.speakers %}
+							<li style="list-style-type: none;">{{ speaker.name }} - {{ speaker.org }}</li>
+						{% endfor %}
+					</span>
+				</td>
+			</tr>
+      {% else %}
+        {% assign sessionSorted = session_group.items | sort: 'track' %}
         <tr>
-            <th>{{ session.time }}</th>
-            <td colspan="5">
+            <th>{{ sessionSorted[0].time }}</th>
+        {% for session in sessionSorted %}
+			{% if session.title == "Upstream Training Korea 2018" %}
+            <td rowspan="5">
                 <a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
                 <span class="fontNameTitle">
                     {% for speaker in session.speakers %}
@@ -113,12 +129,7 @@ permalink: /schedule2/
                     {% endfor %}
                 </span>
             </td>
-        </tr>
-      {% else %}
-        {% assign sessionSorted = session_group.items | sort: 'track' %}
-        <tr>
-            <th>{{ sessionSorted[0].time }}</th>
-        {% for session in sessionSorted %}
+			{% else %}
             <td>
                 <a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
                 <span class="fontNameTitle">
@@ -127,6 +138,7 @@ permalink: /schedule2/
                     {% endfor %}
                 </span>
             </td>
+			{% endif %}
         {% endfor %}
         </tr>
       {% endif %}

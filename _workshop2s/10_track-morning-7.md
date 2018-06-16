@@ -4,8 +4,8 @@ order: 1
 title: "Upstream Training Korea 2018"
 track:
   - Room E7
-time: "09:30 ~ 11:50"
-duration: 2시간 20분
+time: "10:20 ~ 17:20"
+duration: 7시간 20분
 speakers:
   - name: Ildiko Vanska
     org: Ecosystem Technical Lead, OpenStack Foundation
@@ -32,7 +32,8 @@ speakers:
 ## Note
 
  - 사전 등록이 필요하며 본 과정은 영어로 진행합니다 (Pre-registration is required and all speaking will be in English.)
- - 진행 상황에 따라 별도로 커피 브레이크 타임을 가질 수 있습니다 (Break time might be different from other main sessions.)
+ - 본 행사 점심 시간은 진행 상황에 따라 별도로 진행합니다.
+ - 진행 상황에 따라 별도로 또는 커피 브레이크 타임을 가질 수 있습니다 (Break time might be different from other main sessions.)
 
 ## Introduction to Openstack Upstream Institute
 
