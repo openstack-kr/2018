@@ -24,6 +24,18 @@ speakers:
 - Container화된 OpenStack 설치 
 - Logging, Monitoring 설치
 
+### 영문버전 설명 
+- Basic understanding of containerized OpenStack and Kubernetes
+- Experiencing a skill to use Helm chart library that allows simple customization and deployment of OpenStack containers across k8s clusters
+- Experiencing a skill to deploy Kubernetes
+- Experiencing a skill to deploy containerized OpenStack on Kubernetes with Helm charts
+- Experiencing a skill to deploy logging, monitoring, alerting tool on Kubernetes with Helm charts
+- Experiencing a skill to rolling-based OpenStack version upgrad
+
 ## 참석자 분들의 사전 준비 항목
 - 무선 인터넷이 가능한 본인 노트북 (윈도의 경우, 미리 PuTTY 설치 필요)
-- Kubernetes에 대한 이해 
+- Kubernetes에 대한 이해
+
+## 참석자 
+핸즈온 워크샵은 행사 등록하신 분들에 한해서 참석 가능하며, 최대 80명까지만 참석하실 수 있습니다.
+사전 등록시 신청을 받을 예정이며, 또한 행사 당일에도 선착순으로 신청을 추가로 받을 예정입니다.

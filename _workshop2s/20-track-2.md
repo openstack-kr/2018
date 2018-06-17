@@ -19,5 +19,9 @@ Microsoft가 Azure Platform 위에서 구현한 Managed Kubernetes인 AKS로 손
 
 ## 사전준비사항
 - 레벨: 중급 
-- 사전 준비: 노트북, 윈도의 경우 윈도 10 Fall Creators Update (1709) 이상 설치 
-- 사전 조건: Kubernetes를 들어보셨고, Azure에서 ACE혹은 AKS를 써보셨으며, SSH 접속방법을 아시는 분 
+- 사전 준비: 노트북, 윈도의 경우 윈도 10 Fall Creators Update (1709) 이상 설치
+- 사전 조건: Kubernetes를 들어보셨고, Azure에서 ACE혹은 AKS를 써보셨으며, SSH 접속방법을 아시는 분
+
+## 참석자 
+핸즈온 워크샵은 행사 등록하신 분들에 한해서 참석 가능하며, 최대 80명까지만 참석하실 수 있습니다.
+사전 등록시 신청을 받을 예정이며, 또한 행사 당일에도 선착순으로 신청을 추가로 받을 예정입니다.

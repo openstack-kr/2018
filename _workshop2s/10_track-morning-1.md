@@ -8,15 +8,15 @@ time: "10:00 ~ 11:50"
 duration: 1시간 50분
 speakers:
   - name: 이건
-    org: ONF Korea
+    org: ONF Korea / SKT
     desc: 
     image: ../assets/imgs/unknown.png
   - name: 신상호
-    org: ONF Korea
+    org: ONF Korea / SKT
     desc: 
     image: ../assets/imgs/unknown.png
   - name: 박민철
-    org: ONF Korea
+    org: ONF Korea / SKT
     desc: 
     image: ../assets/imgs/unknown.png
 ---
