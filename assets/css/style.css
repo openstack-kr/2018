@@ -39,3 +39,16 @@
 .white-text {
   color: #FFF;
 }
+
+.frame {
+	padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+    border-width: 0;
+}
+.frame-item {
+	padding: 5px;
+    max-width: 200px;
+    max-height: 200px;
+    vertical-align: middle;
+}

@@ -15,10 +15,12 @@ permalink: /sponsors/
   <a name="platinum"/><h3>플래티넘</h3>
   <div class="row">
     {% for item in site.platinums %}
-    <div class="col-sm">
+    <div class="col-sm" style="padding: 2px;">
       <div class="card" style="width: 18rem;">
-        <img class="card-img-top" style="padding: 16px;"
-        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}" alt="{{ item.name }}">
+        <div style="height: 100px">
+          <img class="card-img-top" style="padding: 16px; vertical-align: middle; max-width: 18rem; max-height: 100px; height: auto; width: auto; margin-left: auto; margin-right: auto; display: block;"
+        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}" alt="{{ item.name }}"/>
+        </div>
         <div class="card-body">
           <h5 class="card-title">{{ item.name }}</h5>
           <p class="card-text">{{ item.desc }}</p>
@@ -33,10 +35,12 @@ permalink: /sponsors/
   <a name="gold"/><h3>골드</h3>
   <div class="row">
     {% for item in site.golds %}
-    <div class="col-sm">
+    <div class="col-sm" style="padding: 2px;">
       <div class="card" style="width: 18rem;">
-        <img class="card-img-top" style="padding: 16px;"
-        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}" alt="{{ item.name }}">
+        <div style="height: 100px">
+          <img class="card-img-top" style="padding: 16px; vertical-align: middle; max-width: 18rem; max-height: 100px; height: auto; width: auto; margin-left: auto; margin-right: auto; display: block;"
+        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}" alt="{{ item.name }}"/>
+        </div>
         <div class="card-body">
           <h5 class="card-title">{{ item.name }}</h5>
           <p class="card-text">{{ item.desc }}</p>
@@ -53,8 +57,10 @@ permalink: /sponsors/
     {% for item in site.silvers %}
     <div class="col-sm">
       <div class="card" style="width: 18rem;">
-        <img class="card-img-top" style="padding: 16px;"
-        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}" alt="{{ item.name }}">
+        <div style="height: 100px">
+          <img class="card-img-top" style="padding: 16px; vertical-align: middle; max-width: 18rem; max-height: 100px; height: auto; width: auto; margin-left: auto; margin-right: auto; display: block;"
+        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}" alt="{{ item.name }}"/>
+        </div>
         <div class="card-body">
           <h5 class="card-title">{{ item.name }}</h5>
           <p class="card-text">{{ item.desc }}</p>
@@ -69,10 +75,12 @@ permalink: /sponsors/
   <a name="supporters"/><h3>(기타)후원</h3>
   <div class="row">
     {% for sponsor in site.sponsors %}
-    <div class="col-sm">
+    <div class="col-sm" style="padding: 2px;">
       <div class="card" style="width: 18rem;">
-        <img class="card-img-top" style="padding: 16px;"
-        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}">
+        <div style="height: 100px">
+          <img class="card-img-top" style="padding: 16px; vertical-align: middle; max-width: 18rem; max-height: 100px; height: auto; width: auto; margin-left: auto; margin-right: auto; display: block;"
+        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ sponsor.image }}" alt="{{ item.name }}"/>
+        </div>
         <div class="card-body">
           <h5 class="card-title">{{ sponsor.name }}</h5>
           <p class="card-text">{{ sponsor.desc }}</p>

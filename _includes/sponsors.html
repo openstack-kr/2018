@@ -4,12 +4,12 @@
 <section style="padding-top:32px; padding-bottom:32px;">
   <div class="container">
     <h3>주최</h3>
-    <div class="row">
+    <div class="row frame">
       {% for item in site.hosts %}
-      <div class="col-4 col-md-3" style="padding: 30px;">
-        <a href="{{ item.url }}">
+      <div class="col-4 col-md-3" class="frame-item">
+        <a href="{{ item.url }}" class="frame-item">
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
-          width="100%" alt="{{ item.name }}">
+          width="100%" alt="{{ item.name }}" class="frame-item">
         </a>
       </div>
       {% endfor %}
@@ -18,12 +18,12 @@
   <br /><br />
   <div class="container">
     <h3>주관</h3>
-    <div class="row">
+    <div class="row frame">
       {% for item in site.runs %}
-      <div class="col-4 col-md-3" style="padding: 30px;">
-        <a href="{{ item.url }}">
+      <div class="col-4 col-md-3" class="frame-item">
+        <a href="{{ item.url }}" class="frame-item">
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
-          width="100%" alt="{{ item.name }}">
+          width="100%" alt="{{ item.name }}" class="frame-item">
         </a>
       </div>
       {% endfor %}
@@ -31,12 +31,12 @@
   </div>
   <div class="container">
     <h3>후원 (플래티넘)</h3>
-    <div class="row">
+    <div class="row frame">
       {% for item in site.platinums %}
-      <div class="col-4 col-md-3" style="padding: 30px;">
-        <a href="{{ item.url }}">
+      <div class="col-4 col-md-3" class="frame-item">
+        <a href="{{ item.url }}" class="frame-item">
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
-          width="100%" alt="{{ item.name }}">
+          width="100%" alt="{{ item.name }}" class="frame-item">
         </a>
       </div>
       {% endfor %}
@@ -44,12 +44,12 @@
   </div>
   <div class="container">
     <h3>후원 (골드)</h3>
-    <div class="row">
+    <div class="row frame">
       {% for item in site.golds %}
-      <div class="col-4 col-md-3" style="padding: 30px;">
-        <a href="{{ item.url }}">
+      <div class="col-4 col-md-3" class="frame-item">
+        <a href="{{ item.url }}" class="frame-item">
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
-          width="100%" alt="{{ item.name }}">
+          width="100%" alt="{{ item.name }}" class="frame-item">
         </a>
       </div>
       {% endfor %}
@@ -57,12 +57,12 @@
   </div>
   <div class="container">
     <h3>후원 (실버)</h3>
-    <div class="row">
+    <div class="row frame">
       {% for item in site.silvers %}
-      <div class="col-4 col-md-3" style="padding: 30px;">
-        <a href="{{ item.url }}">
+      <div class="col-4 col-md-3" class="frame-item">
+        <a href="{{ item.url }}" class="frame-item">
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
-          width="100%" alt="{{ item.name }}">
+          width="100%" alt="{{ item.name }}" class="frame-item">
         </a>
       </div>
       {% endfor %}
@@ -70,12 +70,12 @@
   </div>
   <div class="container">
     <h3>후원</h3>
-    <div class="row">
+    <div class="row frame">
       {% for item in site.sponsors %}
-      <div class="col-4 col-md-3" style="padding: 30px;">
-        <a href="{{ item.url }}">
+      <div class="col-4 col-md-3" class="frame-item">
+        <a href="{{ item.url }}" class="frame-item">
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
-          width="100%" alt="{{ item.name }}">
+          width="100%" alt="{{ item.name }}" class="frame-item">
         </a>
       </div>
       {% endfor %}
