@@ -15,7 +15,7 @@ speakers:
           정보통신 기술사 / PMP<br />
           역서: 데브옵스 시대의 클라우드 네트워킹, 네트워크 가상화의 모든 것<br />
 		  "
-    image: ../assets/imgs/unknown.png
+    image: ../assets/imgs/최성남.jpg
 ---
 
 ## 개요
