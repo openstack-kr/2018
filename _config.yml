@@ -177,6 +177,21 @@ sponsors:
     url: https://cafe24.com
     desc: >
       실습 VM 후원
+  - name: Open Networking Foudnation
+    image: onf-logo.jpg
+    url: https://www.opennetworking.org/
+    desc: >
+      - 커뮤니티 후원
+  - name: ""
+    image: 
+    url: ""
+    desc: >
+      -     
+  - name: ""
+    image: 
+    url: ""
+    desc: >
+      -     
 
 medias:
   - name: 디지털데일리
