@@ -1,7 +1,7 @@
 ---
 layout: workshop2
 order: 2
-title: "GKE Deep Dive: Initial Service Deployment and Advanced Cluster Management"
+title: "GKE 딥다이브: Initial Service Deployment and Advanced Cluster Management"
 track:
   - Room E3
 time: "13:00 ~ 14:50"
