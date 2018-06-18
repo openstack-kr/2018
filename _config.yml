@@ -209,6 +209,11 @@ medias:
     url: http://kr.acrofan.com/
     desc: >
       미디어 후원
+  - name: ZDNet
+    image: media-zdnet.png
+    url: http://zdnet.co.kr
+    desc: >
+      미디어 후원
   - name: 한빛미디어
     image: book-hanbit.png
     url: http://www.hanbit.co.kr/media/
@@ -219,11 +224,6 @@ medias:
     url: https://www.gilbut.co.kr/
     desc: >
       책 후원
-  - name: ""
-    image: 
-    url: ""
-    desc: >
-      -     
 
 # license
 owner: "MeltingCon Community Alliance"
