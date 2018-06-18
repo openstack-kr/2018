@@ -155,6 +155,12 @@ silvers:
     url: https://edenchain.io/
     desc: >
       -
+  - name: ""
+    image: 
+    url: ""
+    desc: >
+      -
+      
 sponsors:
   - name: CUBRID
     image: cubrid.png
@@ -171,6 +177,38 @@ sponsors:
     url: https://cafe24.com
     desc: >
       실습 VM 후원
+
+medias:
+  - name: 디지털데일리
+    image: media-digital-daily.gif
+    url: http://www.ddaily.co.kr/
+    desc: >
+      미디어 후원
+  - name: 네트워크타임즈
+    image: media-network-times.jpg
+    url: http://www.datanet.co.kr/
+    desc: >
+      미디어 후원
+  - name: 아크로팬
+    image: media-acrofan.jpg
+    url: http://kr.acrofan.com/
+    desc: >
+      미디어 후원
+  - name: 한빛미디어
+    image: book-hanbit.png
+    url: http://www.hanbit.co.kr/media/
+    desc: >
+      책 후원
+  - name: 길벗
+    image: book-gilbut.jpg
+    url: https://www.gilbut.co.kr/
+    desc: >
+      책 후원
+  - name: ""
+    image: 
+    url: ""
+    desc: >
+      -     
 
 # license
 owner: "MeltingCon Community Alliance"

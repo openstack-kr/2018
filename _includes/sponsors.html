@@ -81,4 +81,17 @@
       {% endfor %}
     </div>
   </div>
+  <div class="container">
+    <h3>미디어 후원</h3>
+    <div class="row frame">
+      {% for item in site.medias %}
+      <div class="col-4 col-md-3" class="frame-item">
+        <a href="{{ item.url }}" class="frame-item">
+          <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
+          width="100%" alt="{{ item.name }}" class="frame-item">
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 </section>

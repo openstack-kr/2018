@@ -24,7 +24,9 @@ permalink: /sponsors/
         <div class="card-body">
           <h5 class="card-title">{{ item.name }}</h5>
           <p class="card-text">{{ item.desc }}</p>
-          <a href="{{ supporter.url }}" class="btn btn-primary">웹사이트 방문</a>
+		  {% unless item.url == "" %}
+		    <a href="{{ item.url }}" class="btn btn-primary">웹사이트 방문</a>
+		  {% endunless %}
         </div>
       </div>
     </div>
@@ -44,7 +46,9 @@ permalink: /sponsors/
         <div class="card-body">
           <h5 class="card-title">{{ item.name }}</h5>
           <p class="card-text">{{ item.desc }}</p>
-          <a href="{{ supporter.url }}" class="btn btn-primary">웹사이트 방문</a>
+		  {% unless item.url == "" %}
+		    <a href="{{ item.url }}" class="btn btn-primary">웹사이트 방문</a>
+		  {% endunless %}
         </div>
       </div>
     </div>
@@ -64,7 +68,9 @@ permalink: /sponsors/
         <div class="card-body">
           <h5 class="card-title">{{ item.name }}</h5>
           <p class="card-text">{{ item.desc }}</p>
-          <a href="{{ supporter.url }}" class="btn btn-primary">웹사이트 방문</a>
+		  {% unless item.url == "" %}
+		    <a href="{{ item.url }}" class="btn btn-primary">웹사이트 방문</a>
+		  {% endunless %}
         </div>
       </div>
     </div>
@@ -72,19 +78,43 @@ permalink: /sponsors/
   </div>
 </div>
 <div class="container" style="padding-top:32px; padding-bottom:32px;">
-  <a name="supporters"/><h3>(기타)후원</h3>
+  <a name="supporters"/><h3>후원</h3>
   <div class="row">
-    {% for sponsor in site.sponsors %}
+    {% for item in site.sponsors %}
     <div class="col-sm" style="padding: 2px;">
       <div class="card" style="width: 18rem;">
         <div style="height: 100px">
           <img class="card-img-top" style="padding: 16px; vertical-align: middle; max-width: 18rem; max-height: 100px; height: auto; width: auto; margin-left: auto; margin-right: auto; display: block;"
-        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ sponsor.image }}" alt="{{ item.name }}"/>
+        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}" alt="{{ item.name }}"/>
         </div>
         <div class="card-body">
-          <h5 class="card-title">{{ sponsor.name }}</h5>
-          <p class="card-text">{{ sponsor.desc }}</p>
-          <a href="{{ sponsor.url }}" class="btn btn-primary">웹사이트 방문</a>
+          <h5 class="card-title">{{ item.name }}</h5>
+          <p class="card-text">{{ item.desc }}</p>
+		  {% unless item.url == "" %}
+		    <a href="{{ item.url }}" class="btn btn-primary">웹사이트 방문</a>
+		  {% endunless %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+<div class="container" style="padding-top:32px; padding-bottom:32px;">
+  <a name="supporters"/><h3>미디어 후원</h3>
+  <div class="row">
+    {% for item in site.medias %}
+    <div class="col-sm" style="padding: 2px;">
+      <div class="card" style="width: 18rem;">
+        <div style="height: 100px">
+          <img class="card-img-top" style="padding: 16px; vertical-align: middle; max-width: 18rem; max-height: 100px; height: auto; width: auto; margin-left: auto; margin-right: auto; display: block;"
+        src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}" alt="{{ item.name }}"/>
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">{{ item.name }}</h5>
+          <p class="card-text">{{ item.desc }}</p>
+		  {% unless item.url == "" %}
+		    <a href="{{ item.url }}" class="btn btn-primary">웹사이트 방문</a>
+		  {% endunless %}
         </div>
       </div>
     </div>
