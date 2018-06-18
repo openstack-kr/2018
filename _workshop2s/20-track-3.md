@@ -7,7 +7,7 @@ track:
 time: "13:00 ~ 14:50"
 duration: 1시간 50분
 speakers:
-  - name: 이민규
+  - name: 이민구
     org: Google Cloud Platform Korea User Group
     desc: ""
     image: ../assets/imgs/unknown.png
