@@ -1,6 +1,6 @@
 ---
 layout: session2
-order: 5.5
+order: 4-9
 title: Coffee Break
 track:
   - Room E5
