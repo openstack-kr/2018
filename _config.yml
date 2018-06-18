@@ -182,11 +182,11 @@ sponsors:
     url: https://www.opennetworking.org/
     desc: >
       - 커뮤니티 후원
-  - name: ""
-    image: ""
-    url: ""
+  - name: IBM
+    image: ibm.png
+    url: https://www.ibm.com/kr-ko/
     desc: >
-      -     
+      - 핸즈온랩 후원
   - name: ""
     image: ""
     url: ""
