@@ -8,8 +8,10 @@
       {% for item in site.hosts %}
       <div class="col-4 col-md-3" class="frame-item">
         <a href="{{ item.url }}" class="frame-item">
+		  {% unless item.image == "" %}
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}" class="frame-item">
+		  {% endunless %}
         </a>
       </div>
       {% endfor %}
@@ -22,8 +24,10 @@
       {% for item in site.runs %}
       <div class="col-4 col-md-3" class="frame-item">
         <a href="{{ item.url }}" class="frame-item">
+		  {% unless item.image == "" %}
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}" class="frame-item">
+		  {% endunless %}
         </a>
       </div>
       {% endfor %}
@@ -35,8 +39,10 @@
       {% for item in site.platinums %}
       <div class="col-4 col-md-3" class="frame-item">
         <a href="{{ item.url }}" class="frame-item">
+		  {% unless item.image == "" %}
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}" class="frame-item">
+		  {% endunless %}
         </a>
       </div>
       {% endfor %}
@@ -48,8 +54,10 @@
       {% for item in site.golds %}
       <div class="col-4 col-md-3" class="frame-item">
         <a href="{{ item.url }}" class="frame-item">
+		  {% unless item.image == "" %}
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}" class="frame-item">
+		  {% endunless %}
         </a>
       </div>
       {% endfor %}
@@ -61,8 +69,10 @@
       {% for item in site.silvers %}
       <div class="col-4 col-md-3" class="frame-item">
         <a href="{{ item.url }}" class="frame-item">
+		  {% unless item.image == "" %}
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}" class="frame-item">
+		  {% endunless %}
         </a>
       </div>
       {% endfor %}
@@ -74,8 +84,10 @@
       {% for item in site.sponsors %}
       <div class="col-4 col-md-3" class="frame-item">
         <a href="{{ item.url }}" class="frame-item">
+		  {% unless item.image == "" %}
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}" class="frame-item">
+		  {% endunless %}
         </a>
       </div>
       {% endfor %}
@@ -87,8 +99,10 @@
       {% for item in site.medias %}
       <div class="col-4 col-md-3" class="frame-item">
         <a href="{{ item.url }}" class="frame-item">
+		  {% unless item.image == "" %}
           <img src="{{ site.baseurl }}/assets/imgs/sponsors/{{ item.image }}"
           width="100%" alt="{{ item.name }}" class="frame-item">
+		  {% endunless %}
         </a>
       </div>
       {% endfor %}

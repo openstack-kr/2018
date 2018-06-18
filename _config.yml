@@ -141,7 +141,7 @@ silvers:
     desc: >
       -
   - name: LINE
-    image: line.png
+    image: line.jpg
     url: 
     desc: >
       -
@@ -156,7 +156,7 @@ silvers:
     desc: >
       -
   - name: ""
-    image: 
+    image: ""
     url: ""
     desc: >
       -
@@ -183,12 +183,12 @@ sponsors:
     desc: >
       - 커뮤니티 후원
   - name: ""
-    image: 
+    image: ""
     url: ""
     desc: >
       -     
   - name: ""
-    image: 
+    image: ""
     url: ""
     desc: >
       -     
