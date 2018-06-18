@@ -42,7 +42,7 @@ permalink: /schedule2/
         {% assign session = session_group.items[0] %}
         <tr>
             <th>{{ session.time }}</th>
-            <td colspan="2">
+            <td colspan="{{ session.track.size }}">
                 <a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
                 <span class="fontNameTitle">
                     {% for speaker in session.speakers %}
@@ -56,7 +56,7 @@ permalink: /schedule2/
         <tr>
             <th>{{ sessionSorted[0].time }}</th>
         {% for session in sessionSorted %}
-            <td>
+            <td rowspan="{{ session.rowspan }}">
                 <a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
                 <span class="fontNameTitle">
                     {% for speaker in session.speakers %}
@@ -106,7 +106,7 @@ permalink: /schedule2/
           {% assign session = session_group.items[0] %}
             <tr>
 				<th>{{ session.time }}</th>
-				<td colspan="4">
+                <td colspan="{{ session.track.size }}">
 					<a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
 					<span class="fontNameTitle">
 						{% for speaker in session.speakers %}
@@ -120,8 +120,7 @@ permalink: /schedule2/
         <tr>
             <th>{{ sessionSorted[0].time }}</th>
         {% for session in sessionSorted %}
-			{% if session.title == "Upstream Training Korea 2018" %}
-            <td rowspan="5">
+            <td rowspan="{{ session.rowspan }}">
                 <a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
                 <span class="fontNameTitle">
                     {% for speaker in session.speakers %}
@@ -129,16 +128,6 @@ permalink: /schedule2/
                     {% endfor %}
                 </span>
             </td>
-			{% else %}
-            <td>
-                <a href="{{ site.baseurl }}{{ session.url }}">{{ session.title }}</a>
-                <span class="fontNameTitle">
-                    {% for speaker in session.speakers %}
-                        <li style="list-style-type: none;">{{ speaker.name }} - {{ speaker.org }}</li>
-                    {% endfor %}
-                </span>
-            </td>
-			{% endif %}
         {% endfor %}
         </tr>
       {% endif %}

@@ -7,7 +7,6 @@ track:
   - Room E2
   - Room E3
   - Room E4
-  - Room E7
 time: "12:00 ~ 13:20"
 duration: 70분
 ---

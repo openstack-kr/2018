@@ -2,6 +2,7 @@
 layout: workshop2
 order: 1
 title: "Upstream Training Korea 2018"
+rowspan: 5
 track:
   - Room E7
 time: "10:20 ~ 17:20"
