@@ -1,17 +1,17 @@
 ---
 layout: session2
 order: 4-3
-title: "Kubicorn 기술발표"
+title: "기술 세션"
 track:
   - Room E6
 time: "13:40 ~ 14:10"
 duration: 30분
 speakers:
-  - name: 안승규
-    org: SK Telecom / Kubernetes UG 
+  - name: 
+    org: Nokia
     desc: 
-    image: ../assets/imgs/안승규.jpg
+    image: ../assets/imgs/unknown.png
 ---
 ## 내용
 
-오픈소스 기술인 Kubicorn에 대해서 알아보는 시간
+Nokia 기술 세션 발표가 있을 예정입니다.
