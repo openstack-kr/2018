@@ -1,7 +1,7 @@
 ---
 layout: workshop2
 order: 1
-title: "-"
+title: "&nbsp;"
 track:
   - Room E3
 time: "09:30 ~ 11:50"
