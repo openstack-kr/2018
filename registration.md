@@ -4,8 +4,11 @@ title: "참가 등록 안내"
 icon: <i class="fas fa-ticket-alt"></i><i class="far fa-check-circle"></i>
 permalink: /registration/
 ---
+## 홈페이지 이동
+[http://www.openinfradays.kr](http://www.openinfradays.kr)를 클릭하세요.
+
 ## 사전등록 공지 
-**6월 19일 (화) 오전 10시**에 **사전등록**이 시작됩니다.
+등록은 [festa](https://festa.io/events/41)를 통해서 받고 있습니다.
 
 ## 등록비 
 - **양일 등록 (Day 1 + Day 2) : 20,000원**
