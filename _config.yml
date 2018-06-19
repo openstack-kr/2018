@@ -172,11 +172,6 @@ sponsors:
     url: https://www.ncloud24.com/
     desc: >
       실습 VM 후원
-  - name: Cafe24
-    image: cafe24.gif
-    url: https://cafe24.com
-    desc: >
-      실습 VM 후원
   - name: Open Networking Foudnation
     image: onf.png
     url: https://www.opennetworking.org/
