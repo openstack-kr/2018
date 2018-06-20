@@ -209,6 +209,11 @@ medias:
     url: http://zdnet.co.kr
     desc: >
       미디어 후원
+  - name: 테크수다
+    image: media-techsuda.png
+    url: http://techsuda.com
+    desc: >
+      미디어 후원
   - name: 한빛미디어
     image: book-hanbit.png
     url: http://www.hanbit.co.kr/media/

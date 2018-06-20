@@ -1,23 +1,22 @@
 ---
 layout: session1
 order: 9
-title: "Multi Tenant Networks for AI cloud with OpenStack"
+title: "Zuul v3 - OpenStack 인프라 코드로 CI/CD 살펴보기"
 track: Track 3
 time: "17:00 ~ 17:30"
 duration: 30분
 speakers:
-  - name: Vishal Shukla
-    org: Mellanox
+  - name: 최영락
+    org: OpenStack Korea User Group
     desc: "
-          Vishal Shukla is a Director of Ethernet switch technologies at Mellanox responsible for technical solutions and partners product management for the
-		  Company’s Ethernet portfolio. Prior to joining Mellanox, Vishal has held various executive and leadership roles at IBM, BNT, Cisco systems, Nortel Networks
-		  and Infosys Technologies. He holds 20+ patents (15 granted) in the field of software-defined networking, IOT, cloud automation, cloud security, cloud
-		  orchestration and in cloud performance areas. He has authored and published several books on SDN, OpenFlow and OpenStack technologies. Vishal holds a MBA
-		  from Duke University, Fuqua School of Business, US and a B.S. degree from U.P. Technical University, India.
+          현재 오픈스택 한국 커뮤니티 3기 회장을 맡아 활동 중입니다. OpenStack 번역을 시작으로 한 문서화, 버그 수정, 커뮤니케이션 경험을 바탕으로 국제화팀 프로젝트 리더로 약 1년간 활동하였습니다. 현재는 공개SW개발자센터 (KOSSLAB) 글로벌 오픈프론티어 5기 (파트타임)
+		  에 참여하고 있으며, OpenStack 번역 및 관련 인프라 작업을 시간날 때 꾸준히 하고 있습니다.
 		  "
-    image: ../assets/imgs/Vishal.jpg
+    image: ../assets/imgs/최영락.png
 ---
 
 ## 개요
 
-Networks for AI getting traction with workloads evolving for deep learning. Today’s AI networks needs high performance and needs all cloud related properties. On network side, the latest SDN revolution is centered on creating efficient virtualized data center networks using RDMA, VXLAN & EVPN. We will talk about AI network at the scale, performance, and cost advantages of using a modern controller-free virtualized network solution built on 100 Gigabit Ethernet switches with hardware based VXLAN Routing. We will explore the ease of automating such a network in an OpenStack environment and take you through a real world use case of using OpenStack Network Node bridging between a bare metal cloud (EVPN) and a fully virtualized cloud environments (orchestrated by Neutron).
+Zuul은 프로젝트 게이팅 및 관련된 프로젝트에 초점을 맞추어 지속적인 통합, 전달 및 배포 시스템을 구동하는 프로그램으로, OpenStack Foundation에 의해 호스팅되는 CI/CD를 위한 별개의 프로젝트입니다.
+본 세션에서는 Zuul v3에 대해 설명하고, OpenStack 인프라팀이 관리하는 코드 저장소에 있는 project-config, system-config, openstack-zuul-jobs 내용을 기반으로
+번역 및 문서 관련 작업에 대한 Ansible 플레이북을 통해 OpenStack 프로젝트에서 CI/CD를 어떻게 활용하는지 살펴봅니다.

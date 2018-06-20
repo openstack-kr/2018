@@ -5,7 +5,7 @@ title: "Invited Talk: A Day in the Java Developer’s Life, with a Taste of Kube
 rowspan: 2
 track:
   - Room E5
-time: "09:30 ~ 09:50" # for column 2
+time: "09:30 ~ 09:55" # for column 2
 duration: 50분
 speakers:
   - name: "Arun Gupta (Principal Open Source Technologist)"

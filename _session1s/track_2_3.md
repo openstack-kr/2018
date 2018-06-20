@@ -6,7 +6,7 @@ track: Track 2
 time: "15:20 ~ 15:50"
 duration: 30분
 speakers:
-  - name: 이창재
+  - name: 손주호 클라우드기술팀
     org: 넷마블
     desc: 
     image: ../assets/imgs/unknown.png
