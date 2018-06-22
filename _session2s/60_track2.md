@@ -10,15 +10,15 @@ speakers:
   - name: 이건
     org: ONF Korea
     desc: 
-    image: ../assets/imgs/unknown.png
+    image: ../assets/imgs/이건.jpg
   - name: 신상호
     org: ONF Korea
     desc: 
-    image: ../assets/imgs/unknown.png
+    image: ../assets/imgs/신상호.jpg
   - name: 박민철
     org: ONF Korea
     desc: 
-    image: ../assets/imgs/unknown.png
+    image: ../assets/imgs/박민철.png
 ---
 
 ## 개요
