@@ -9,7 +9,7 @@ speakers:
   - name: 하현
     org: 네이버
     desc: 
-    image: ../assets/imgs/unknown.png
+    image: ../assets/imgs/하현.jpg
 ---
 
 ## 개요
