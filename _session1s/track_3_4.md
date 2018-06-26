@@ -13,3 +13,5 @@ speakers:
 ---
 
 ## 개요
+
+Automation Tool인 Ansible을 이용하여 OpenStack에서 자주 사용되는 반복적인 작업들을 자동화 하는 과정을 알아봅니다.
