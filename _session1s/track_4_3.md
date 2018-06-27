@@ -6,10 +6,10 @@ track: Track 4
 time: "15:50 ~ 16:20"
 duration: 30분
 speakers:
-  - name: 김준기
+  - name: 신정규
     org: Lablup
-    desc: 
-    image: ../assets/imgs/김준기.jpg
+    desc: 누구든지 쉽게 하이퍼스케일 환경을 사용해 머신러닝을 할 수 있도록 삽을 뜨고 있습니다.
+    image: ../assets/imgs/신정규.jpg
 ---
 
 ## 개요
