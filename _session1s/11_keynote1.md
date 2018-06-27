@@ -10,11 +10,16 @@ track:
 time: "09:30 ~ 10:10"
 duration: 40분
 speakers:
-  - name: Jonathan Bryce, Executive Director
+  - name: Mark Collier, Chief Operating Officer
     org: OpenStack Foundation
-    desc: Jonathan Bryce, who has spent his career building the cloud, is Executive Director of the OpenStack Foundation. Previously he was a founder of The Rackspace Cloud.
-          He started his career working as a web developer for Rackspace, and during his tenure, he and co-worker Todd Morey had a vision to build a sophisticated web hosting environment where users and businesses alike could turn to design, develop and deploy their ideal web site – all without being responsible for procuring the technology, installing it or making sure it is built to be always available. This vision became The Rackspace Cloud. Since then he has been a major driver of OpenStack, the open source cloud software initiative.
-    image: ../assets/imgs/JonathanBryce.jpg
+    desc: "
+          Mark has spent his career working on technologies that disrupt industries, from \"a computer on every desk\", when he worked at Dell in the 90's as a product manager, to the digital music shift as Senior Director of Business Development at Yahoo! Music, to the cloud computing era, where as VP of Business Development at Rackspace he led the effort to embrace an open source development model and build an ecosystem and community around it, resulting in the founding of OpenStack in 2010.<br>
+		  
+          In 2012, he started the OpenStack Foundation, along with Jonathan Bryce, and now serves as it's Chief Operating Officer working full time on \"Protecting, Empowering, and Promoting OpenStack and the community around it, including users, developers and the entire ecosystem.<br>
+		  
+          Outside of OpenStack, he loves music, Austin, BBQ, wakeboarding on Lake Austin, and basketball (Rockets & Longhorns). He goes by \"sparkycollier\" on the inter webs, to honor his great dane sparky (R.I.P.)
+	      "
+    image: ../assets/imgs/MarkCollier.jpg
   - name: Lauren Sell, Vice President, Marketing and Community Services
     org: OpenStack Foundation
     desc: Lauren Sell is the Vice President, Marketing and Community Services for the OpenStack Foundation. She helped launch OpenStack in 2010 and has since focused on building the brand and global community around one of the largest and most successful open source projects to date. She is passionate about the community and has been working closely with OpenStack users, technical contributors and marketers to bring the OpenStack story to life and drive global adoption. Lauren has been marketing in the technology industry for more than twelve years, with a background in early stage companies, open source and enterprise software, as well as industry events like SXSW Interactive.
