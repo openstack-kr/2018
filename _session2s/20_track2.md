@@ -19,8 +19,9 @@ speakers:
 
 ## 개요
 
-#### OpenStack Korea User Group (20분): Kubernetes 관련 기술 발표가 있을 예정입니다.
-
+#### OpenStack Korea User Group (20분): With containers & K8s on OpenStack + Azure
+컨테이너 및 Kubernetes (K8s)에 대한 개요를 소개하고, OpenStack과 Azure에서 관련 기술을
+어떤 형태로 지원하고자 하였는지를 살펴봅니다.
 
 #### Korea Azure User Group (50분): Kubernetes에서 Windows IIS/ASP.NET 애플리케이션 호스팅하기
 Kubernetes 1.5부터 본격적으로 개발되기 시작한 Windows 기반의 Kubernetes 클러스터에 대한 내용을 살펴보고,
