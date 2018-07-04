@@ -49,6 +49,12 @@ permalink: /schedule2/
                         <li style="list-style-type: none;">{{ speaker.name }} - {{ speaker.org }}</li>
                     {% endfor %}
                 </span>
+				{% for material in session.materials %}
+					<a href="{{ material }}">발표자료</a>
+					{% if session.materials.size != forloop.index %}
+					|
+					{% endif %}
+				{% endfor %}
             </td>
         </tr>
       {% else %}
@@ -63,6 +69,12 @@ permalink: /schedule2/
                         <li style="list-style-type: none;">{{ speaker.name }} - {{ speaker.org }}</li>
                     {% endfor %}
                 </span>
+				{% for material in session.materials %}
+					<a href="{{ material }}">발표자료</a>
+					{% if session.materials.size != forloop.index %}
+					|
+					{% endif %}
+				{% endfor %}
             </td>
         {% endfor %}
         </tr>
@@ -113,6 +125,12 @@ permalink: /schedule2/
 							<li style="list-style-type: none;">{{ speaker.name }} - {{ speaker.org }}</li>
 						{% endfor %}
 					</span>
+					{% for material in session.materials %}
+						<a href="{{ material }}">발표자료</a>
+						{% if session.materials.size != forloop.index %}
+						|
+						{% endif %}
+					{% endfor %}
 				</td>
 			</tr>
       {% else %}
@@ -126,6 +144,12 @@ permalink: /schedule2/
                     {% for speaker in session.speakers %}
                         <li style="list-style-type: none;">{{ speaker.name }} - {{ speaker.org }}</li>
                     {% endfor %}
+					{% for material in session.materials %}
+						<a href="{{ material }}">발표자료</a>
+						{% if session.materials.size != forloop.index %}
+						|
+						{% endif %}
+					{% endfor %}
                 </span>
             </td>
         {% endfor %}

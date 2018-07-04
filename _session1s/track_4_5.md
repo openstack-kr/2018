@@ -10,6 +10,8 @@ speakers:
     org: 숭실대 인터넷인프라시스템 기술연구센터
     desc: 
     image: ../assets/imgs/unknown.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-4-nfv-ha-high-availability
 ---
 
 ## 개요

@@ -10,6 +10,8 @@ speakers:
     org: 넷마블
     desc: 
     image: ../assets/imgs/unknown.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-2-cloud-xfw-dpdk-ovs
 ---
 
 ## 개요

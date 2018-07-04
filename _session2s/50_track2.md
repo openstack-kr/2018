@@ -11,6 +11,8 @@ speakers:
     org: SK C&C
     desc: 
     image: ../assets/imgs/문진수.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-e6-openinfra-monitoring-with-prometheus
 ---
 
 ## 개요

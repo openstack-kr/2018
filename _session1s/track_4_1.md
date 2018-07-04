@@ -10,6 +10,8 @@ speakers:
     org: 고려대학교
     desc: 
     image: ../assets/imgs/unknown.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-4-grafana-openstack-104161634
 ---
 
 ## 개요

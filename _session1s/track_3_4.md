@@ -10,6 +10,8 @@ speakers:
     org: 한국레드햇
     desc: 
     image: ../assets/imgs/장현정.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-3-openstack-automation-with-ansible
 ---
 
 ## 개요

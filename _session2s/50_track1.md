@@ -12,6 +12,8 @@ speakers:
     org: netmarble
     desc: 
     image: ../assets/imgs/unknown.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-ceph-object-storage-performance-tuning
 ---
 
 ## 개요

@@ -10,6 +10,8 @@ speakers:
     org: SUSE
     desc: 2007년부터 개발, 보안, 시스템 엔지니어링 등의 분야에서 경험을 쌓아 왔으며, 2015년도에 SUSE Korea에 입사하여 Technical Specialist로서 High Available하고 Scalable한 인프라를 소개 및 구축 하는 일을 담당하고 있습니다.
     image: ../assets/imgs/전철민.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-3-software-defined-infrastructure
 ---
 
 ## 개요

@@ -15,6 +15,8 @@ speakers:
     org: AWS 한국 사용자 그룹 
     desc: 
     image: ../assets/imgs/unknown.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-k8s-workshop-kubernetes-for-beginner
 ---
 
 ## 개요

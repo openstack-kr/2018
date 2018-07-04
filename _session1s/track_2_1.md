@@ -12,6 +12,8 @@ speakers:
           CDMA가 최초 상용화 될 때부터 현대전자, 모토로라, 텔코웨어에서 이동통신시스템을 개발해왔습니다. 2013년부터는 SKT와 함께 Openstack기반 Cloud Solution, ETSI NFV MANO 플랫폼 개발/컨설팅을 진행하고 있고 자체적으로 기업용 Cloud Solution을 개발하고 있습니다. 항상 IT와 CT가 만나는 영역에서 새로운 기술을 도입하고 전파하고자 합니다.
 	      "
     image: ../assets/imgs/정정문.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-2-microservice-architecture-devops-5g-multiaccess-edge-computing
 ---
 
 ## 개요

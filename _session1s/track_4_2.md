@@ -12,6 +12,8 @@ speakers:
           현재 SK C&C Cloud서비스개발팀에서 게임/미디어 관련 개발프로젝트를 수행하고 있습니다. 
           "
     image: ../assets/imgs/김진웅.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-4-provisioning-dedicated-game-server-on-kubernetes-cluster
 ---
 
 ## 개요

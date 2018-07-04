@@ -23,6 +23,8 @@ speakers:
           플랫폼 구축 및 설계를 지원하고 있습니다.
 	      "
     image: ../assets/imgs/장다성.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-1-kubernetes-volume
 ---
 
 ## 개요

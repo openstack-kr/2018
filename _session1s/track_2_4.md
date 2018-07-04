@@ -10,6 +10,8 @@ speakers:
     org: MTOS
     desc: 
     image: ../assets/imgs/unknown.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-2-openstack-iaas-paas-orchestration-dcostack
 ---
 
 ## 개요

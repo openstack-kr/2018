@@ -10,6 +10,8 @@ speakers:
     org: 삼성전자
     desc: 
     image: ../assets/imgs/박종한.gif
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-1-openstack-softi-easy-installer
 ---
 
 ## 개요

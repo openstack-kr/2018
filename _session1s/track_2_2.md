@@ -16,6 +16,8 @@ speakers:
           오픈스택 클라우드간 프라이빗 네트워크 연동 업무를 진행하고 있습니다.
 	      "
     image: ../assets/imgs/소병준.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-2-ixcloud-kdx
 ---
 
 ## 개요

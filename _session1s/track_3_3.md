@@ -10,6 +10,8 @@ speakers:
     org: 아토리서치
     desc: "아토리서치에서 기술컨설팅 및 프리세일즈 업무를 총괄하고 있습니다. 아토리서치는 오픈스택/SDN&NFV Networking/SD-WAN/SD-LAN 등 차세대네트워킹 기술 중심의 솔루션과 플랫폼을 제공합니다."
     image: ../assets/imgs/unknown.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-3-sdnnfv-enabled-openstack-platform-atom-stack
 ---
 
 ## 개요

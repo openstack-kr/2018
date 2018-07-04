@@ -10,6 +10,8 @@ speakers:
     org: 네이버
     desc: 
     image: ../assets/imgs/유장선.gif
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-3-cephfs-with-openstack-manila-based-on-bluestore-and-erasure-code
 ---
 
 ## 개요

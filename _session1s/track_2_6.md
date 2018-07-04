@@ -10,6 +10,8 @@ speakers:
     org: SK Telecom
     desc: 
     image: ../assets/imgs/김대성.gif
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-2-helm-kubernetes-package-manager-103468301
 ---
 
 ## 개요

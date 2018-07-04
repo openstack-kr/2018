@@ -11,6 +11,8 @@ speakers:
     org: Korea Azure User Group
     desc: 
     image: ../assets/imgs/남정현.jpg
+materials:
+  - https://bit.ly/2KvJtzV
 ---
 
 ## 개요

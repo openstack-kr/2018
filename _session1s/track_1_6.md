@@ -10,6 +10,8 @@ speakers:
     org: "엑세스랩(주)"
     desc: 
     image:  ../assets/imgs/유명환.gif
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-1-arm
 ---
 
 ## 개요

@@ -15,6 +15,9 @@ speakers:
     org: Korea Azure User Group
     desc: 
     image: ../assets/imgs/남정현.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-k8s-workshop-with-containers-k8s-on-openstack-azure
+  - https://www.slideshare.net/rkttu/kubernetes-windows-application
 ---
 
 ## 개요

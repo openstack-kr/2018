@@ -21,7 +21,7 @@ speakers:
           다양한 업무 경험을 토대로 시장의 요구와 고객의 문제해결을 위한 솔루션의
           기획과 Go to market전략을 수립하고 실행하고 있습니다."
     image: ../assets/imgs/이진현.jpg
-  - name: 정서형 상무
+  - name: 남기범
     org: 삼성전자
     desc: 
     image: ../assets/imgs/unknown.png
@@ -29,6 +29,11 @@ speakers:
     org: 오픈소스컨설팅
     desc: 
     image: ../assets/imgs/최지웅.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-netapp-open-source-with-netapp
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-103465744
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-evolution-to-cloud-native
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-103465898
 ---
 
 ## 순서

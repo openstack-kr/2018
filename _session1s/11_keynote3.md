@@ -17,6 +17,8 @@ speakers:
 		  에 참여하고 있으며, OpenStack 번역 및 관련 인프라 작업을 시간날 때 꾸준히 하고 있습니다.
 		  "
     image: ../assets/imgs/최영락.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-community-report
 ---
 
 ## 개요

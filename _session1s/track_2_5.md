@@ -13,6 +13,8 @@ speakers:
 자투리 시간을 활용하여 오픈스택에 조금씩 기여하는 것이 최근 생긴 취미입니다.
           "
     image: ../assets/imgs/우병열.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-2-neutron-lbaas-octavia
 ---
 
 ## 개요

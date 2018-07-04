@@ -10,6 +10,8 @@ speakers:
     org: SK Telecom
     desc: 
     image: ../assets/imgs/안재석.jpeg
+materials:
+  - http://bit.ly/openinfradays-day1-skt-taco
 ---
 
 ## 개요

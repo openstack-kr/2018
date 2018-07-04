@@ -18,5 +18,7 @@ speakers:
     org: Kubernetes User Group
     desc: 
     image: ../assets/imgs/안승규.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018
 ---
 행사 개최를 알리는 오프닝 시간입니다. OpenInfra Days Korea 2018 행사 또한 소개합니다.

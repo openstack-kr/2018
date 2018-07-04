@@ -11,6 +11,8 @@ speakers:
     org: Purpleworks
     desc: 
     image: ../assets/imgs/김충섭.jpg
+materials:
+  - http://bit.ly/openinfradays-day2-purpleworks
 ---
 
 ## 개요

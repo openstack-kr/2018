@@ -10,6 +10,8 @@ speakers:
     org: 오픈소스컨설팅
     desc: 
     image: ../assets/imgs/김호진.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-1
 ---
 
 ## 개요

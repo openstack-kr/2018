@@ -11,6 +11,8 @@ speakers:
     org: 콘텐츠연합플랫폼
     desc: 
     image: ../assets/imgs/unknown.png
+materials:
+  - https://www.slideshare.net/ssuser158055/gitlab-kubernetes-cicd
 ---
 
 ## 개요

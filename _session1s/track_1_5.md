@@ -10,6 +10,8 @@ speakers:
     org: Kakao
     desc: 
     image: ../assets/imgs/공용준.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-1-from-openstack-to-cloud-native
 ---
 
 ## 개요

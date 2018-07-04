@@ -10,6 +10,8 @@ speakers:
     org: Mexia Consulting
     desc: 
     image: ../assets/imgs/유정협.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-4-cloudevents
 ---
 
 ## 제목

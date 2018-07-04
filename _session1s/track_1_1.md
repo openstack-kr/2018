@@ -13,6 +13,8 @@ speakers:
            기반으로 비즈니스 발굴 및 전략 수립, Sales 업무를 수행하고 있습니다. 
            "
     image: ../assets/imgs/김호성.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-1-iaas-paas
 ---
 
 ## 개요

@@ -13,6 +13,8 @@ speakers:
            2년전 부터는 클라우드 기술인 OpenStack 및 Kubernetes에 대한 구축 및 기술지원을
            담당하고 있습니다."
     image: ../assets/imgs/이종철.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-e5-gpu-on-kubernetes
 ---
 
 ## 개요
