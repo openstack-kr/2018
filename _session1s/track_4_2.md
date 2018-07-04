@@ -14,6 +14,8 @@ speakers:
     image: ../assets/imgs/김진웅.png
 materials:
   - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-4-provisioning-dedicated-game-server-on-kubernetes-cluster
+videos:
+  - https://youtu.be/LtGGzKBoVZQ
 ---
 
 ## 개요

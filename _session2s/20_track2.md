@@ -18,6 +18,9 @@ speakers:
 materials:
   - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-k8s-workshop-with-containers-k8s-on-openstack-azure
   - https://www.slideshare.net/rkttu/kubernetes-windows-application
+videos:
+  - https://youtu.be/buPUOUh57Lk
+  - https://youtu.be/Osbx5pIx5_Q
 ---
 
 ## 개요

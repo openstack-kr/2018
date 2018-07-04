@@ -56,6 +56,13 @@ permalink: /schedule2/
 					|
 					{% endif %}
 				{% endfor %}
+				<br>
+				{% for video in session.videos %}
+					<a href="{{ video }}">영상</a>
+					{% if session.videos.size != forloop.index %}
+					|
+					{% endif %}
+				{% endfor %}
             </td>
         </tr>
       {% else %}
@@ -73,6 +80,13 @@ permalink: /schedule2/
 				{% for material in session.materials %}
 					<a href="{{ material }}">발표자료</a>
 					{% if session.materials.size != forloop.index %}
+					|
+					{% endif %}
+				{% endfor %}
+				<br>
+				{% for video in session.videos %}
+					<a href="{{ video }}">영상</a>
+					{% if session.videos.size != forloop.index %}
 					|
 					{% endif %}
 				{% endfor %}
@@ -132,6 +146,13 @@ permalink: /schedule2/
 						|
 						{% endif %}
 					{% endfor %}
+					<br>
+					{% for video in session.videos %}
+						<a href="{{ video }}">영상</a>
+						{% if session.videos.size != forloop.index %}
+						|
+						{% endif %}
+					{% endfor %}
 				</td>
 			</tr>
       {% else %}
@@ -148,6 +169,13 @@ permalink: /schedule2/
 					{% for material in session.materials %}
 						<a href="{{ material }}">발표자료</a>
 						{% if session.materials.size != forloop.index %}
+						|
+						{% endif %}
+					{% endfor %}
+					<br>
+					{% for video in session.videos %}
+						<a href="{{ video }}">영상</a>
+						{% if session.videos.size != forloop.index %}
 						|
 						{% endif %}
 					{% endfor %}

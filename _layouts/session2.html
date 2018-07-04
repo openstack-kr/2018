@@ -31,6 +31,15 @@ layout: frame
         </div>
       </div>
     {% endfor %}<br>
+	<h4>
+	{% for material in page.materials %}
+    <span class="badge badge-dark"><a href="{{material}}" class="white-link">발표 자료 확인</a></span>
+	{% endfor %}
+	{% for video in page.videos %}
+	<span class="badge badge-info"><a href="{{video}}" class="white-link">영상 보기</a></span>
+	{% endfor %}
+	</h4>
+	<br>
 
   {{ content }}
 </div>

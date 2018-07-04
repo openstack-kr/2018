@@ -11,6 +11,8 @@ speakers:
     org: Kakao
     desc: 
     image: ../assets/imgs/홍석용.gif
+videos:
+  - https://youtu.be/rA20Q_g6nXM
 ---
 
 ## 내용 

@@ -11,6 +11,8 @@ speakers:
     org: Kubernetes UG / SKT
     desc: 
     image: ../assets/imgs/안승규.jpg
+videos:
+  - https://youtu.be/xgdK031o3VE
 ---
 ## 내용 
 Kubicorn에 대한 상세 기술 설명 

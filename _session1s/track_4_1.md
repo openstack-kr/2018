@@ -12,6 +12,8 @@ speakers:
     image: ../assets/imgs/unknown.png
 materials:
   - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-4-grafana-openstack-104161634
+videos:
+  - https://youtu.be/is4zSNXJ5AA
 ---
 
 ## 개요

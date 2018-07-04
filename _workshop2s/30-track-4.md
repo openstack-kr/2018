@@ -11,6 +11,10 @@ speakers:
     org: 라인
     desc: 
     image: ../assets/imgs/이어형.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-e4-immutable-kubernetes-architecture
+videos:
+  - https://youtu.be/uOckBOG4Qfs
 ---
 
 ## 개요

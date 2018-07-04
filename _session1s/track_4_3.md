@@ -12,6 +12,8 @@ speakers:
     image: ../assets/imgs/신정규.jpg
 materials:
   - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-4-backendai
+videos:
+  - https://youtu.be/vpbfN6kbVH0
 ---
 
 ## 개요

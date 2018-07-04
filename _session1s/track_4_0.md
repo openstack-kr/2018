@@ -12,6 +12,8 @@ speakers:
     image: ../assets/imgs/유정협.png
 materials:
   - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-4-cloudevents
+videos:
+  - https://youtu.be/h2_ZNTXwlVc
 ---
 
 ## 제목

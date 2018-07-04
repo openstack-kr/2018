@@ -10,6 +10,8 @@ speakers:
     org: 네이버
     desc: 
     image: ../assets/imgs/하현.jpg
+videos:
+  - https://www.youtube.com/watch?v=dufOETgGweQ
 ---
 
 ## 개요

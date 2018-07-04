@@ -18,6 +18,8 @@ speakers:
     image: ../assets/imgs/송상준.jpg
 materials:
   - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-track-4-freeipa-sso
+videos:
+  - https://youtu.be/nkywpHvqEwM
 ---
 
 ## 개요
