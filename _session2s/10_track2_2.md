@@ -11,6 +11,8 @@ speakers:
     org: Kubernetes UG / SKT
     desc: 
     image: ../assets/imgs/안승규.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-e51-invited-talk-kubicorn-building-simple-kubernetes-infrastructure
 videos:
   - https://youtu.be/xgdK031o3VE
 ---

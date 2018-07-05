@@ -19,6 +19,8 @@ speakers:
     org: ONF Korea
     desc: 
     image: ../assets/imgs/박민철.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-e6-sona-onos-sdn-controller-openstackkubernetes
 ---
 
 ## 개요

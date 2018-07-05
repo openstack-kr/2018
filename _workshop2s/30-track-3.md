@@ -15,6 +15,8 @@ speakers:
     org: Kubernetes User Group & OpenStack Korea Community / SKT
     desc:
     image: ../assets/imgs/unknown.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-e32-kubespray-helm-armada-openstack-on-kubernetes
 ---
 ## 개요
 본 핸즈온 워크샵에서는 Kubespray를 이용해서 Kubernetes를 설치 해보고. Container화된 OpenStack 서비스들을 Helm 기술을 이용해서 Kubernetes위에 직접 설치 해 볼 수 있습니다. 추가로 EFK (elastic search, fluent-bit, kibana)와 Prometheus 설치도 해 보실 수 있습니다. 
