@@ -15,6 +15,8 @@ speakers:
 전자동화 구매대행 스타트업을 창업 경험을 토대로, 지금은 한국 IBM 의 테크니컬 에반젤리스트로 PaaS, Container, DevOps, Blockchain, IoT 등 혼자 알기 아까운 신기술을 다른 사람들에게 알리고 있다.
           "
     image: ../assets/imgs/공진기.png
+materials:
+  - https://github.com/jgkong/kubernetes-handson
 ---
 
 ## 개요 

@@ -11,6 +11,8 @@ speakers:
     org: IBM Cloud User Group
     desc: 구름을 좋아하는 클라우드 엔지니어입니다. 현재 IBM에서 새로운 기술에 지속적으로 도전하고 있으며, 클라우드 네이티브와 마이크로서비스로의 여정을 그려나가고 있습니다. 그 중심에 있는 Kubernetes에 대해 함께 이야기 하고 싶습니다. 
     image: ../assets/imgs/양현주.JPG
+materials:
+  - https://github.com/gracehyunjuyang/ibmcloudprivate-handson
 ---
 
 ##### 워크샵 종류
