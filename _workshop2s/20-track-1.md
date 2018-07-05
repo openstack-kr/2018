@@ -23,6 +23,8 @@ speakers:
     org: 오픈소스컨설팅
     desc: 
     image: ../assets/imgs/윤찬열.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-e1-openstack
 ---
 
 ## 개요 

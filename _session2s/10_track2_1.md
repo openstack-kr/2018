@@ -11,6 +11,8 @@ speakers:
     org: Kakao
     desc: 
     image: ../assets/imgs/홍석용.gif
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-e5-mesos-to-kubernetes-cloud-native
 videos:
   - https://youtu.be/rA20Q_g6nXM
 ---

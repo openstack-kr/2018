@@ -10,6 +10,8 @@ speakers:
     org: 네이버
     desc: 
     image: ../assets/imgs/하현.jpg
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-1-t47-ceph-paas
 videos:
   - https://www.youtube.com/watch?v=dufOETgGweQ
 ---

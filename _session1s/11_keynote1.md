@@ -24,6 +24,8 @@ speakers:
     org: OpenStack Foundation
     desc: Lauren Sell is the Vice President, Marketing and Community Services for the OpenStack Foundation. She helped launch OpenStack in 2010 and has since focused on building the brand and global community around one of the largest and most successful open source projects to date. She is passionate about the community and has been working closely with OpenStack users, technical contributors and marketers to bring the OpenStack story to life and drive global adoption. Lauren has been marketing in the technology industry for more than twelve years, with a background in early stage companies, open source and enterprise software, as well as industry events like SXSW Interactive.
     image: ../assets/imgs/LaurenSell.jpg
+videos:
+  - https://youtu.be/_OrbxBYgprs
 ---
 
 ## Abstract

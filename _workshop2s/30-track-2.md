@@ -11,6 +11,8 @@ speakers:
     org: AWS 한국 사용자 모임 
     desc: 
     image: ../assets/imgs/unknown.png
+materials:
+  - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-e2-aws-kops-kubernetes-cluster
 ---
 ## 개요
 AWS 에서 Kubernetes 클러스터를 손쉽게 운영 및 관리할 수 있는 kops를 활용하여 컨테이너 클러스터를 구성하고, dashboard 와 heapster를 설치해서 모니터링을 해봅니다. 간단한 샘플 앱 컨테이너를 Kubernetes로 배포하는 방법을 실습합니다. 시간에 따라 Jenkins X를 설치하고. Github 에 Spring boot 앱을 생성해서 빌드 및 배포하는 방법은 데모로 보여드릴 예정입니다.

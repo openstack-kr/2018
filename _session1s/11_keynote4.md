@@ -14,6 +14,8 @@ speakers:
     org: 정보통신산업진흥원
     desc: 조재홍 팀장은 대한민국 충청북도 진천군에 위치한 정보통신산업진흥원(NIPA)에서 근무하고 있다. 2016년부터 NIPA 공개SW진흥팀을 맡고 있으며, 우리나라 오픈소스 생태계 성장을 위해, 오픈소스 참여문화 확산 캠페인, 유망 오픈소스 R&D 프로젝트, 개발자의 글로벌 오픈소스 프로젝트 참여 및 공공기관/중소기업의 라이선스 검증 지원 프로그램 등을 수행하고 있다. Carnegie Mellon Univ.에서 Master of Science in Information Technology 학위를 취득하였으며, 최근, 성균관대학교에서 경영학 박사과정을 수료하였다.
     image: ../assets/imgs/조재홍.jpg
+videos:
+  - https://youtu.be/HN7U-MrrZhM
 ---
 
 ## 개요

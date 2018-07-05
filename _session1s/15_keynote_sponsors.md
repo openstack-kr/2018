@@ -34,6 +34,11 @@ materials:
   - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-103465744
   - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-evolution-to-cloud-native
   - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-103465898
+videos:
+  - https://youtu.be/ai7VXJCv_t4
+  - https://youtu.be/_c-jSJ3l6ug
+  - https://youtu.be/mchSBX0Cs40
+  - https://youtu.be/zftKFlrOuFU
 ---
 
 ## 순서

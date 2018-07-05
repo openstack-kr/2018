@@ -14,6 +14,8 @@ speakers:
     org: 한국 리눅스 재단
     desc: 
     image: ../assets/imgs/이제응.jpg
+videos:
+  - https://youtu.be/FuPvXPVO1SA
 ---
 
 ## 개요

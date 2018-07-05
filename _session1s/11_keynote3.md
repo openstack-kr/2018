@@ -19,6 +19,8 @@ speakers:
     image: ../assets/imgs/최영락.png
 materials:
   - https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-community-report
+videos:
+  - https://youtu.be/zjeVqYCqIP4
 ---
 
 ## 개요
