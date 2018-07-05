@@ -19,6 +19,8 @@ speakers:
     org: ONF Korea / SKT
     desc: 
     image: ../assets/imgs/박민철.png
+materials:
+  - https://github.com/sonaproject/sona_all_in_one_install/blob/master/README.md
 ---
 ## 개요
 ONOS SDN 컨트롤러 기반 SDDC 네트워크 관리 솔루션 SONA를 이용하여 OpenStack 네트워크를 관리하는 실습을 합니다. 기본으로 제공되는 All-in-One Installation 스크립트를 사용하여 가상 머신에 OpenStack + SONA를 설치/연동하고 가상 네트워크를 provisioning하는 등 실습을 할 예정입니다.
